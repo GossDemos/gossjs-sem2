@@ -4,6 +4,8 @@
 
 ## 02/03/2018
 - Часть 1
+
+  [Тренинг по массивам](https://codepen.io/nikitinskaya/pen/XEKxWp)
 - Часть 2 - сборка и транспиляция
   - [Задание 1](http://nikitinskaya.me/gossjs_sem2/0203/task1)
   - [Задание 2](http://nikitinskaya.me/gossjs_sem2/0203/task2)
