@@ -7,7 +7,7 @@ JS
 
 - [Крамер](0902/kramer.js)
 - [Тернарный оператор](0902/ternary1.js)
-- [isNan](0902/isnan.js)
+- [isNaN](0902/isnan.js)
 - [Полнота](0902/jsfck.js)
 - Get bytecode:
 
@@ -28,6 +28,12 @@ JS
 
     Undefined means the variable exists, but isn't given a value yet.
     Not defined variables don't exist yet in the current lexical environment, that is, are not accessible there or weren't yet created.
+
+PHP
+- [Крамер](0902/kramer.php)
+- [Тернарный оператор](0902/ternary.php)
+- [isNAN](0902/isnan.php)
+
 
 
 ## 02/03/2018
