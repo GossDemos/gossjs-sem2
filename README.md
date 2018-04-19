@@ -42,3 +42,8 @@ PHP
 ## 30/03/2018
 - [Асинхронные задания](https://codepen.io/nikitinskaya/pen/EEEwOZ)
 - [Приложение на Silex](https://github.com/nikitinskaya/silex-app-sem2)
+
+## 13/04/2018
+- Задание 1: асинхронный компонент средствами DOM
+  - [код](1304/part1)
+  - [демо](http://nikitinskaya.me/gossjs-sem2/1304/part1/)
