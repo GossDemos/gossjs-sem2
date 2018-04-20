@@ -41,6 +41,9 @@ PHP
 
 ## 16/03/2018
 - [Часть 0](1603/part0/)
+- Часть 1
+  - [Код](https://github.com/nikitinskaya/1603-part1)
+  - [Heroku app](https://boiling-castle-92735.herokuapp.com/)
 
 ## 30/03/2018
 - [Асинхронные задания](https://codepen.io/nikitinskaya/pen/EEEwOZ)
