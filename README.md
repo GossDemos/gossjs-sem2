@@ -39,6 +39,9 @@ PHP
     - [Часть 2](http://nikitinskaya.me/gossjs-sem2/0203/task2/part2)
   - [Задание 3](http://nikitinskaya.me/gossjs-sem2/0203/task3)
 
+## 16/03/2018
+- [Часть 0](1603/part0/)
+
 ## 30/03/2018
 - [Асинхронные задания](https://codepen.io/nikitinskaya/pen/EEEwOZ)
 - [Приложение на Silex](https://github.com/nikitinskaya/silex-app-sem2)
