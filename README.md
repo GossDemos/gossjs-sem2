@@ -53,3 +53,6 @@ PHP
 - Задание 1: асинхронный компонент средствами DOM
   - [код](1304/part1)
   - [демо](http://nikitinskaya.me/gossjs-sem2/1304/part1/)
+- Задание 2: Кастомные элементы-счетчики
+  - [код](1304/part2)
+  - [демо](http://nikitinskaya.me/gossjs-sem2/1304/part2/)
