@@ -1,0 +1,16 @@
+[Course]
+Course_Creator=Websoft
+Course_System=CourseLab
+Course_ID=Static0
+Course_Title=Statis Sites
+Level=1
+Max_Fields_CST=2
+Total_AUs=1
+Total_Blocks=0
+Version=2.0
+
+[Course_Behavior]
+Max_Normal=1
+
+[Course_Description]
+Test course

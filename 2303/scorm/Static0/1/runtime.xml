@@ -1,0 +1,3462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Presentation file, saved 4/23/2018 2:52:08 PM using CourseLab 171119 -->
+<module>
+<runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="no" seqslides="yes" preloadimages="yes" normalize="no"/>
+<groups>
+</groups>
+<slides>
+<slide id="SLIDE_1" sid="3" masterid="MASTER1" advance="" transition="" durout="" name="Без названия" indent="0">
+<RESPONSE name="SLIDE_1_1" event="onafterdisplay" type="link">
+<SET type="score" fs_object="" objectid="" fs_property="" color_bg_switch="no" color_bg="#FFFFFF" color_border_switch="no" color_border="#000000" borderwidth_switch="no" borderwidth="0" opacity_switch="no" opacity="100" drag_switch="no" drag="no" fs_master="" master="" fs_state="" state="default" fs_objective="" pid="total" fs_score="" oid="" additive="sum" score="1" fs_cs="" cs="c" fs_ss="" ss="u">
+</SET>
+</RESPONSE>
+<frames>
+<frame id="FRAME_5" dur="0" infinite="0">
+<object id="TXT_2" x="234" y="200" w="300" h="125" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 300px; height: 125px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:16px;"><span style="font-family:arial,helvetica,sans-serif;">Статические сайты и стек JAM</span></span></p>
+
+<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color: rgb(0, 0, 0);">Вера Никитинская</span></span></span></p>
+
+<p style="text-align: center;"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">S4107, Веб-технологии</span></span></p></div>]]>
+</data>
+</object>
+<actionboxes>
+<actionbox id="ACTIONBOX_1">
+</actionbox>
+<actionbox id="ACTIONBOX_2">
+</actionbox>
+</actionboxes>
+<timeline>
+<timeaction type="actionbox" begin="0" targetid="ACTIONBOX_1"/>
+<timeaction type="actionbox" begin="0" targetid="ACTIONBOX_2"/>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_5" sid="i" masterid="MASTER1" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<RESPONSE name="SLIDE_5_1" event="onafterdisplay" type="link">
+<SET type="score" fs_object="" objectid="" fs_property="" color_bg_switch="no" color_bg="#FFFFFF" color_border_switch="no" color_border="#000000" borderwidth_switch="no" borderwidth="0" opacity_switch="no" opacity="100" drag_switch="no" drag="no" fs_master="" master="" fs_state="" state="default" fs_objective="" pid="total" fs_score="" oid="" additive="sum" score="2" fs_cs="" cs="c" fs_ss="" ss="u">
+</SET>
+</RESPONSE>
+<frames>
+<frame id="FRAME_6" dur="0" infinite="0">
+<object id="IMG_1" x="124" y="141" w="474" h="306" z="100" display="frame" begin="0" preload="images/g9y5gKeYxdU.jpg">
+<data>
+<![CDATA[<img src="images/g9y5gKeYxdU.jpg" style="width: 474px; height: 306px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="TXT_3" x="279" y="82" w="300" h="50" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 300px; height: 50px; box-sizing: border-box;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="line-height: 14.399999618530273px;">Схема работы статического сайта</span></span></span></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_6" sid="j" masterid="MASTER1" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<RESPONSE name="SLIDE_6_1" event="onafterdisplay" type="link">
+<SET type="score" fs_object="" objectid="" fs_property="" color_bg_switch="no" color_bg="#FFFFFF" color_border_switch="no" color_border="#000000" borderwidth_switch="no" borderwidth="0" opacity_switch="no" opacity="100" drag_switch="no" drag="no" fs_master="" master="" fs_state="" state="default" fs_objective="" pid="total" fs_score="" oid="" additive="sum" score="4" fs_cs="" cs="c" fs_ss="" ss="u">
+</SET>
+</RESPONSE>
+<frames>
+<frame id="FRAME_7" dur="0" infinite="0">
+<object id="TXT_5" x="279" y="82" w="300" h="50" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 300px; height: 50px; box-sizing: border-box;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="line-height: 14.399999618530273px;">Характеристики статического сайта</span></span></span></div>]]>
+</data>
+</object>
+<object id="TXT_8" x="49" y="132" w="685" h="287" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 685px; height: 287px; box-sizing: border-box;"><p>&nbsp;</p>
+
+<table style="border: 1px solid rgb(204, 204, 204); border-spacing: 0px; border-collapse: collapse; margin-left: auto; margin-right: auto; width: 100%;">
+	<tbody>
+		<tr>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">Безопасность&nbsp;</span></td>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">Высокая&nbsp;</span></td>
+		</tr>
+		<tr>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">Версионирование&nbsp;</span></td>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">&nbsp;Доступно для всего содержимого и кода</span></td>
+		</tr>
+		<tr>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">&nbsp;Внедрение пользовательского содержимого</span></td>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">&nbsp;Ограничено, нужны сторонние инструменты</span></td>
+		</tr>
+		<tr>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">&nbsp;Отображение контента в реальном времени</span></td>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">&nbsp;Ограничено, нужны сторонние инструменты&nbsp;</span></td>
+		</tr>
+		<tr>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">&nbsp;Размещение на сервере&nbsp;</span></td>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">Низкие требования к серверному окружению</span></td>
+		</tr>
+		<tr>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">Скорость отображения&nbsp;</span></td>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">Очень высокая&nbsp;</span></td>
+		</tr>
+		<tr>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">Устойчивость к пиковым нагрузкам&nbsp;</span></td>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">Высокая&nbsp;</span></td>
+		</tr>
+		<tr>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">Масштабируемость</span></td>
+			<td style="padding: 5px; border: 1px solid rgb(204, 204, 204);"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; line-height: 14.399999618530273px;">Простое копирование готовых файлов. Можно использовать CDN&nbsp;</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_7" sid="k" masterid="MASTER1" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<RESPONSE name="SLIDE_7_1" event="onafterdisplay" type="link">
+<SET type="score" fs_object="" objectid="" fs_property="" color_bg_switch="no" color_bg="#FFFFFF" color_border_switch="no" color_border="#000000" borderwidth_switch="no" borderwidth="0" opacity_switch="no" opacity="100" drag_switch="no" drag="no" fs_master="" master="" fs_state="" state="default" fs_objective="" pid="total" fs_score="" oid="" additive="sum" score="8" fs_cs="" cs="c" fs_ss="" ss="u">
+</SET>
+</RESPONSE>
+<frames>
+<frame id="FRAME_8" dur="0" infinite="0">
+<object id="TXT_6" x="279" y="82" w="300" h="50" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 300px; height: 50px; box-sizing: border-box;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">JAM-стек: JavaScript, Api, Markup</span></span></div>]]>
+</data>
+</object>
+<object id="TXT_9" x="119" y="183" w="512" h="141" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 512px; height: 141px; box-sizing: border-box;"><ul>
+	<li><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Клиентский Javascript выполняет всю основную логику приложения</span></span></li>
+	<li><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Все серверные процессы и взаимодействие с базой данных обернуты в API, доступные через http</span></span></li>
+	<li><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Разметка (Markup) состоит из шаблонов и собирается в готовую разметку во время развертывания</span></span></li>
+</ul></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_8" sid="l" masterid="MASTER1" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<RESPONSE name="SLIDE_8_1" event="onafterdisplay" type="link">
+<SET type="score" fs_object="" objectid="" fs_property="" color_bg_switch="no" color_bg="#FFFFFF" color_border_switch="no" color_border="#000000" borderwidth_switch="no" borderwidth="0" opacity_switch="no" opacity="100" drag_switch="no" drag="no" fs_master="" master="" fs_state="" state="default" fs_objective="" pid="total" fs_score="" oid="" additive="sum" score="16" fs_cs="" cs="c" fs_ss="" ss="u">
+</SET>
+</RESPONSE>
+<frames>
+<frame id="FRAME_9" dur="0" infinite="0">
+<object id="TXT_7" x="279" y="82" w="300" h="50" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 300px; height: 50px; box-sizing: border-box;"><span style="font-family: arial, helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; line-height: 16.799999237060547px;">JAM-стек: лучшие практики</span></div>]]>
+</data>
+</object>
+<object id="TXT_10" x="119" y="183" w="512" h="141" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 512px; height: 141px; box-sizing: border-box;"><ul>
+	<li dir="ltr">
+	<p dir="ltr"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Серверная часть &ldquo;не существует&rdquo;: абстрагирована от клиентской</span></span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Проект собирается из готовых модулей</span></span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Сайт размещается на CDN</span></span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Атомарный деплой</span></span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Версионирование всего проекта в Git</span></span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr"><span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Автоматизация сборки</span></span></p>
+	</li>
+</ul></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_9" sid="o" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<frames>
+<frame id="FRAME_10" dur="0" infinite="0">
+<object id="OBJ_4" x="118" y="101" w="544" h="274" z="100" display="frame" begin="0" type="q_0000">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="cl-audio-files-list" >
+		 
+	</div><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_4 .cl-container"><span class="rule-static">width: 544px; height: 274px;</span></div><div class="rule" data-name="#OBJ_4 .cl-q-credit"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_4 .cl-q-question-goal"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_4 .cl-q-area"><span class="rule-static">background-color: #FFFFFF;</span></div><div class="rule" data-name="#OBJ_4 .cl-q-question-txt"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; background-color: #D5EAFF;</span></div><div class="rule" data-name="#OBJ_4 .cl-q-timer"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_4 .cl-q-timer-indicator"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_4 .cl-q-manager"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_4 .cl-btn-cell"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif;</span></div><div class="rule" data-name="#OBJ_4 .cl-btn-html"><span class="rule-static">width: 150px; height: 25px; background-color: #0080C0; border-style: solid; border-width: 2px; border-color: #0080C0; font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 12px;  color: #FFFFFF; text-align: center;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#OBJ_4 .cl-btn-html:hover"><span class="rule-static">background-color: #F0F0F0; border-color: #6666CC; color: #000000;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="180" data-colors="#0080C0|0;#A6E1FF|100" data-important="1" /></div><div class="rule" data-name="#OBJ_4 .cl-q-feedback"><span class="rule-static">width: 30%; left: 35%; top: 30%;</span><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px #666" /></div><div class="rule" data-name="#OBJ_4 .cl-q-feedback-correct"><span class="rule-static">background-color: #E0FFE0; border-color: #006600; color: #006600;</span></div><div class="rule" data-name="#OBJ_4 .cl-q-feedback-incorrect"><span class="rule-static">background-color: #FFE0D0; border-color: #CC0000; color: #CC0000;</span></div><div class="rule" data-name="#OBJ_4 .cl-q-feedback-lastattempt"><span class="rule-static">background-color: #FFE0D0; border-color: #CC0000; color: #CC0000;</span></div><div class="rule" data-name="#OBJ_4 .cl-q-feedback-exceed"><span class="rule-static">background-color: #FFE0D0; border-color: #CC0000; color: #CC0000;</span></div><div class="rule" data-name="#OBJ_4 .cl-q-feedback-timeout"><span class="rule-static">background-color: #FFE0D0; border-color: #CC0000; color: #CC0000;</span></div><div class="rule" data-name="#OBJ_4 .cl-q-feedback-btn"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif;</span></div><div class="rule" data-name="#OBJ_4 .cl-var-choice .cl-spot"><span class="rule-static">border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="50%" /></div><div class="rule" data-name="#OBJ_4 .cl-var-selected .cl-var-choice .cl-spot-point"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="50%" /></div><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-q-area"><span class="rule-static">border: solid 1px #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px #666" /></div><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-q-question-txt"><span class="rule-static">border-bottom: solid 1px #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px 5px 0 0" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#D5EAFF|0;#F1F8FF|100" /></div><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-q-vars" /><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-q-timer"><span class="rule-static">border-top: solid 1px #0080C0;</span></div><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-q-timer-box"><span class="rule-static">border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /></div><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-q-timer-indicator"><span class="rule-dynamic" data-type="border-radius" data-value="5px" /></div><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-q-timer-indicator-idle"><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-q-timer-indicator-warn"><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#800080|0;#FFA6FF|100" /></div><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-q-timer-indicator-panic"><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#FF0000|0;#FFA6A6|100" /></div><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-q-manager"><span class="rule-static">border-top: solid 1px #0080C0;</span></div><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-btn-std"><span class="rule-static">border-width: 1px; border-color: #0080C0; background-color: #D5EAFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#D5EAFF|0;#F1F8FF|100" /></div><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-btn-std:hover"><span class="rule-dynamic" data-type="linear-gradient" data-angle="180" data-colors="#D5EAFF|0;#F1F8FF|100" data-important="1" /></div><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-btn-cell"><span class="rule-static">color: #0080C0;</span></div><div class="rule" data-name="#OBJ_4 .cl-theme-light .cl-q-feedback"><span class="rule-dynamic" data-type="border-radius" data-value="5px" /></div></div><div class="cl-container cl-theme-light unselectable" ><div class="cl-extra-wrapper"><div class="cl-workarea"><div class="cl-q-credit unselectable">Вопрос оцениваемый</div><div class="cl-q-area"><div class="cl-q-question-txt unselectable"><span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">Каково главное отличие статического сайта от динамического?</span></div><div class="cl-q-question-goal unselectable">Выберите правильный вариант</div><table class="cl-vars-table"><tr><td class="cl-vars-cell"><div class="cl-q-vars cl-q-vars-choice"><div id="OBJ_4_Q_VAR_1" data-vid="1" class="cl-var  cl-var-idle  unselectable"><div class="cl-var-inner cl-var-choice cl-var-choice-light cl-var-first  cl-var-last "><table cellpadding="0" cellspacing="0" border="0" class="cl-var-table"><tr><td class="cl-var-spot-td"><div id="OBJ_4_Q_SPOT_1" class="cl-spot cl-spot-selected" data-vid="1"><div class="cl-inner-part selected"><div class="cl-spot-point">
+						 
+					</div></div></div></td><td class="cl-var-txt-td"><div class="cl-var-txt"><span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">Момент генерации страниц сайта</span></div></td></tr></table></div></div></div></td></tr></table><div class="cl-q-manager"><table cellpadding="0" cellspacing="0" border="0" class="cl-q-manager-table"><tr><td class="cl-q-manager-td cl-q-manager-td-left"><div id="OBJ_4_BUTTON_submit" class="cl-btn cl-btn-std cl-btn-idle unselectable" data-action="submit" title="ПРИНЯТЬ ОТВЕТ"><table cellpadding="0" cellspacing="0" border="0" align="center" class="cl-btn-table"><tr><td class="cl-btn-cell">ПРИНЯТЬ ОТВЕТ</td></tr></table></div></td><td class="cl-q-attempts unselectable"><div id="OBJ_4_q_attempts_container"><table cellspacing="0" cellpadding="0" border="0"><tr><td class="cl-q-attempts-txt unselectable">Осталось попыток</td><td id="OBJ_4_q_attempts_count" class="cl-q-attempts-num unselectable">1</td></tr></table></div></td><td class="cl-q-manager-td cl-q-manager-td-right"> </td></tr></table></div></div></div></div><div id="OBJ_4_Q_FB" class="cl-q-feedback unselectable " style="display: none;"><div class="cl-q-feedback-inner"><div class="cl-q-feedback-btn unselectable">
+				×
+			</div><div class="cl-q-feedback-txt-cnt"><div class="cl-q-feedback-txt unselectable">-</div></div></div></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+</slides>
+<masters>
+<slide id="MASTER1" sid="1">
+<frames>
+<frame id="FRAME_4" dur="0" infinite="0">
+<object id="EM1_NEXT" x="670" y="501" w="75" h="25" z="0" display="frame" begin="0" type="nav_0000_btn_navi">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#EM1_NEXT .cl-btn"><span class="rule-static">width: 75px; height: 25px;</span></div><div class="rule" data-name="#EM1_NEXT .cl-btn-html"><span class="rule-static">border-style: solid; border-width: 1px; border-color: #004080;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#EM1_NEXT .cl-idle"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#EM1_NEXT .cl-over"><span class="rule-static">background-color: #A6E1FF;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#A6E1FF|0;#0080C0|100" /></div><div class="rule" data-name="#EM1_NEXT .cl-disabled"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#EM1_NEXT .cl-btn-bg"><span class="rule-static">width: 73px; height: 23px;</span></div><div class="rule" data-name="#EM1_NEXT .cl-btn-table"><span class="rule-static">width: 73px; height: 23px;</span></div><div class="rule" data-name="#EM1_NEXT .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 73px; height: 23px; text-align: center; padding: 0 0px 0 0px; 
+		font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 12px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#EM1_NEXT .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-html cl-idle" title="Следующий слайд" data-title-enabled="Следующий слайд" data-title-disabled="Переход запрещен"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">ДАЛЕЕ</td></tr></table></div></div></div></div>]]>
+</data>
+</object>
+<object id="EM1_BACK" x="588" y="501" w="75" h="25" z="1" display="frame" begin="0" type="nav_0000_btn_navi">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#EM1_BACK .cl-btn"><span class="rule-static">width: 75px; height: 25px;</span></div><div class="rule" data-name="#EM1_BACK .cl-btn-html"><span class="rule-static">border-style: solid; border-width: 1px; border-color: #004080;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#EM1_BACK .cl-idle"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#EM1_BACK .cl-over"><span class="rule-static">background-color: #A6E1FF;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#A6E1FF|0;#0080C0|100" /></div><div class="rule" data-name="#EM1_BACK .cl-disabled"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#EM1_BACK .cl-btn-bg"><span class="rule-static">width: 73px; height: 23px;</span></div><div class="rule" data-name="#EM1_BACK .cl-btn-table"><span class="rule-static">width: 73px; height: 23px;</span></div><div class="rule" data-name="#EM1_BACK .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 73px; height: 23px; text-align: center; padding: 0 0px 0 0px; 
+		font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 12px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#EM1_BACK .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-html cl-idle" title="Предыдущий слайд" data-title-enabled="Предыдущий слайд" data-title-disabled="Переход запрещен"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">НАЗАД</td></tr></table></div></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_10" sid="n">
+<frames>
+<frame id="FRAME_11" dur="0" infinite="0">
+<object id="OBJ_5" x="602" y="442" w="100" h="50" z="0" display="frame" begin="0" type="nav_0000_btn_navi">
+<data>
+<![CDATA[<div class="cl-wrapper" style="cursor: pointer;" onclick="try { var oEvt = e; } catch(x) { var oEvt = window.event; }; CL.Resp.Process({ respid: 'OBJ_5_1', evt: oEvt });return false;"><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_5 .cl-btn"><span class="rule-static">width: 100px; height: 50px;</span></div><div class="rule" data-name="#OBJ_5 .cl-btn-html"><span class="rule-static">border-style: solid; border-width: 1px; border-color: #004080;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_5 .cl-idle"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#OBJ_5 .cl-over"><span class="rule-static">background-color: #A6E1FF;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#A6E1FF|0;#0080C0|100" /></div><div class="rule" data-name="#OBJ_5 .cl-disabled"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_5 .cl-btn-bg"><span class="rule-static">width: 98px; height: 48px;</span></div><div class="rule" data-name="#OBJ_5 .cl-btn-table"><span class="rule-static">width: 98px; height: 48px;</span></div><div class="rule" data-name="#OBJ_5 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 98px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
+		font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#OBJ_5 .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-html cl-idle" title="Закрыть модуль" data-title-enabled="Закрыть модуль" data-title-disabled=""><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">Завершить</td></tr></table></div></div></div></div>]]>
+</data>
+<RESPONSE name="OBJ_5_1" event="onclick" type="link">
+<SEND_TO_LMS>
+</SEND_TO_LMS>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+</masters>
+<methods>
+<method type="nav_0000_btn_navi" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv= $(oCurObj.div);
+				var sRole = oCurObj.jxParams.children("role").text();
+				var sTarget = (sRole.indexOf("slide")==-1) ? "frame" : "slide";
+				var sDir = "";
+				var sId;
+				if(sRole=="closemodule")
+				{
+					oCurObj.data =
+					{
+						sRole: "close",
+						sState: "enabled",
+						sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+						sSoundOver: oCurObj.jxParams.children("sound_over").text()
+					};
+					if(oCurObj.data.sSoundClick=="custom")
+					{
+						oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+					}
+					if(oCurObj.data.sSoundOver=="custom")
+					{
+						oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+					}
+				}
+				else
+				{
+					var bSwipe = false;
+					if(sRole.indexOf("next")!=-1)
+					{
+						sDir = "next";
+						bSwipe = (oCurObj.jxParams.children("swipe").text()=="yes");
+					}
+					else if(sRole.indexOf("prev")!=-1)
+					{
+						sDir = "prev";
+						bSwipe = (oCurObj.jxParams.children("swipe").text()=="yes");
+					}
+					else if(sRole.indexOf("first")!=-1)
+					{
+						sDir = "first";
+					}
+					else if(sRole.indexOf("last")!=-1)
+					{
+						sDir = "last";
+					}
+					else if(sRole=="thisslide")
+					{
+						sDir = "this";
+					}
+					else
+					{
+						sId = oCurObj.jxParams.children((sRole=="selectedslide") ? "selectedslide" : "selectedframe").text();
+					}
+					oCurObj.data =
+					{
+						sRole: sRole,
+						sTarget: sTarget,
+						sDir: sDir,
+						sId: sId,
+						sFrameId: "",
+						sSlideId: "",
+						sState: "enabled",
+						bNaviStrict: (oCurObj.jxParams.children("nav_lock").text()=="yes"),
+						bNaviLockedByAction: false,
+						sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+						sSoundOver: oCurObj.jxParams.children("sound_over").text()
+					};
+					if(oCurObj.data.sSoundClick=="custom")
+					{
+						oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+					}
+					if(oCurObj.data.sSoundOver=="custom")
+					{
+						oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+					}
+					if(oCurObj.data.sRole=="close")
+					{
+						oCurObj.data.bDisplayConfirm = (oCurObj.jxParams.children("display_closemodule_msg").text()=="yes");
+					}
+					CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_FRAME_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_FRAME_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_NAVIGATION" } ] });
+				}
+				if(CL.bTouch)
+				{
+					if(bSwipe)
+					{
+						if(sDir=="next")
+						{
+							$(CL.oBoard).on("swipeleft", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); e.originalEvent.stopPropagation(); return false; });
+						}
+						else if(sDir=="prev")
+						{
+							$(CL.oBoard).on("swiperight", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); e.originalEvent.stopPropagation(); return false; });
+						}
+						
+					}
+					jCurObjDiv.find(".cl-btn").addClass("cl-idle").on("click", function () { oCurObj.CallMethod({ sMethod: "Click", oMethodArgs: { pid: argobj.pid } }) });
+				}
+				else
+				{
+					jCurObjDiv.find(".cl-btn").addClass("cl-idle").on("mouseover", function () { oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "over" } }) }).on("mouseout", function () { oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "out" } }) }).on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Click", oMethodArgs: { pid: argobj.pid } }) });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="HandleEvt">
+<![CDATA[function HandleEvt(argobj)
+			{
+				if(CLO[argobj.pid]==null || CLO[argobj.pid].div==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				if(CLO[argobj.pid].data.sTarget=="slide")
+				{
+					switch(argobj.evt)
+					{
+						case "EVENT_SLIDE_OPENED":
+						{
+							if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+							{
+								oCurObj.data.sSlideId = CLZ.sCurrentSlideId;
+								oCurObj.data.bNaviLockedByAction = false;
+							}
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_SLIDE_COMPLETE":
+						{
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_NAVIGATION":
+						{
+							if(argobj.sTargets!=null)
+							{
+								if(argobj.sTargets==oCurObj.data.sDir || (argobj.sTargets=="restart" && oCurObj.data.sDir=="this") || argobj.sTargets=="all" || (argobj.sTargets=="buttons" && (oCurObj.data.sDir=="next" || oCurObj.data.sDir=="prev")) || argobj.sTargets=="allbuttons")
+								{
+									switch(argobj.sAction)
+									{
+										case "off":
+										{
+											oCurObj.data.bNaviLockedByAction = true;
+											oCurObj.CallMethod({ sMethod: "DisableAccess" });
+											break;
+										}
+										case "on":
+										default:
+										{
+											oCurObj.data.bNaviLockedByAction = false;
+											oCurObj.CallMethod({ sMethod: "EnableAccess" });
+											break;
+										}
+									}
+								}
+							}
+							break;
+						}					
+					}
+				}
+				else
+				{
+					switch(argobj.evt)
+					{
+						case "EVENT_FRAME_OPENED":
+						{
+							if(oCurObj.data.sFrameId!=CLZ.sCurrentFrameId)
+							{
+								oCurObj.data.sFrameId = CLZ.sCurrentFrameId;
+								oCurObj.data.bNaviLockedByAction = false;
+							}
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_FRAME_COMPLETE":
+						{
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_NAVIGATION":
+						{
+							if(argobj.sTargets!=null)
+							{
+								if(argobj.sTargets=="all" || argobj.sTargets=="buttons" || argobj.sTargets=="allbuttons")
+								{
+									switch(argobj.sAction)
+									{
+										case "off":
+										{
+											oCurObj.data.bNaviLockedByAction = true;
+											oCurObj.CallMethod({ sMethod: "DisableAccess" });
+											break;
+										}
+										case "on":
+										default:
+										{
+											oCurObj.data.bNaviLockedByAction = false;
+											oCurObj.CallMethod({ sMethod: "EnableAccess" });
+											break;
+										}
+									}
+								}
+							}
+							break;
+						}					
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="UIEvent">
+<![CDATA[function UIEvent(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv= $(oCurObj.div);
+				if(argobj.evt==null) return false;
+				if(oCurObj.data.sState=="disabled" || $(".cl-modal-mask").is(":visible")) return false;
+				switch(argobj.evt.type)
+				{
+					case "swiperight":
+					case "swipeleft":
+					{
+						oCurObj.CallMethod({ sMethod: "Navigate" });
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="SetState">
+<![CDATA[function SetState(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jBtn = $(CLO[argobj.pid].div).find(".cl-btn");
+				if(jBtn.hasClass("cl-disabled") && argobj.sState!="enabled") return false;
+				switch(argobj.sState)
+				{
+					case "over":
+					{
+						jBtn.removeClass("cl-idle").addClass("cl-over");
+						CL.Sound.Stop({ sId: argobj.pid, sEvent: "over" });
+						if(oCurObj.data.sSoundOver!="none")
+						{
+							CL.Sound.Play({ sId: argobj.pid, sEvent: "over", sType: oCurObj.data.sSoundOver, sFile: oCurObj.data.sSoundOverFile })
+						}
+						break;
+					}
+					case "out":
+					{
+						jBtn.removeClass("cl-over").addClass("cl-idle");
+						break;
+					}
+					case "disabled":
+					{
+						jBtn.removeClass("cl-idle cl-over").addClass("cl-disabled");
+						CLO[argobj.pid].data.sState = "disabled";
+						break;
+					}
+					case "enabled":
+					{
+						jBtn.removeClass("cl-disabled").addClass("cl-idle");
+						CLO[argobj.pid].data.sState = "enabled";
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="DisableAccess">
+<![CDATA[function DisableAccess(argobj)
+			{
+				CLO[argobj.pid].CallMethod({ sMethod: "SetState", oMethodArgs: { sState: "disabled" } });
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="EnableAccess">
+<![CDATA[function EnableAccess(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(CLO[argobj.pid].data.sRole=="close")
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "SetState", oMethodArgs: { sState: "enabled" } });
+				}
+				else
+				{
+					var oParams = { sTarget: CLO[argobj.pid].data.sTarget };
+					if(CLO[argobj.pid].data.sDir=="")
+					{
+						oParams.sTargetId = CLO[argobj.pid].data.sId;
+					}
+					else
+					{
+						oParams.sDir = CLO[argobj.pid].data.sDir;
+					}
+					CLO[argobj.pid].CallMethod({ sMethod: "SetState", oMethodArgs: { sState: ((argobj.override==true || CL.Navigation.Allowed(oParams)) ? "enabled" : "disabled") } });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="Navigate">
+<![CDATA[function Navigate(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var oParams = { sTargetType: oCurObj.data.sTarget };
+				if(oCurObj.data.sDir=="")
+				{
+					oParams.sTargetId = oCurObj.data.sId;
+				}
+				else
+				{
+					oParams.sTargetDir = oCurObj.data.sDir;
+				}
+				if(argobj.override==true || CL.Navigation.Allowed(oParams))
+				{
+					oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { sState: "disabled" } });
+					CL.Navigation.GoTo(oParams);
+				}
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				return CLO[argobj.pid].GetProperty(argobj);
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="Click">
+<![CDATA[function Click(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.sState=="disabled") return false;
+				if(oCurObj.data.sRole=="close")
+				{
+					if(oCurObj.data.bDisplayConfirm)
+					{
+						if(confirm(CLO[argobj.pid].jxParams.children("closemodule_msg").text()))
+						{
+							window.close();
+						}
+					}
+					else
+					{
+						window.close();
+					}
+				}
+				else
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "Navigate" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0000" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var sQuestionId = argobj.pid;
+				var bDefer = false; 
+				switch(oCurObj.display)
+				{
+					case "none":
+					{
+						bDefer = true;
+						CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_OBJECT_SHOW" } ] });
+						break;
+					}
+					case "time":
+					case "frame":
+					case "slide":
+					{
+						if(oCurObj.iBegin!=null && +oCurObj.iBegin!=0)
+						{
+							bDefer = true;
+							CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_OBJECT_SHOW" } ] });
+						}
+						break;
+					}
+				}				
+				var jBtn = jCurObjDiv.find("#" + argobj.pid + "_BUTTON_submit");
+				jBtn.parent().height(jBtn.height());
+				oCurObj.data =
+				{
+					bCreated: false,
+					bCredit: (oCurObj.jxParams.children("q_scored").text()=="yes"),
+					bNoMoreAttempts: false,
+					bShowCorrect: (oCurObj.jxParams.children("q_showright").text()=="yes"),
+					bFeedback: (oCurObj.jxParams.children("q_fb_switch").text()=="yes"),
+					bModal: (oCurObj.jxParams.find("modal").text()=="yes"),
+					bSkip: (oCurObj.jxParams.find("q_skip").text()!="none"),
+					bTimer: (oCurObj.jxParams.children("q_timer_switch").text()=="yes"),
+					bTimeout: false,
+					jxObjectives: oCurObj.jxParams.find("q_scoreboards > item"),
+					nBaseScore: +oCurObj.jxParams.children("q_weight").text(),
+					sMode: "init",
+					sType: oCurObj.jxParams.children("question_type").text(),
+					sSoundSuccess: oCurObj.jxParams.children("sound_success").text(),
+					sSoundFailure: oCurObj.jxParams.children("sound_failure").text(),
+					sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+					sSoundOver: oCurObj.jxParams.children("sound_over").text()
+				};
+				var jAudioContainer = jCurObjDiv.find(".cl-audio-files-list");
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					oCurObj.data.jAudioClick = CL.Sound.Append({ oContainer: jAudioContainer, sId: argobj.pid + "_AUDIO1", sType: oCurObj.data.sSoundClick, sFile: oCurObj.jxParams.children("sound_click_file_custom").text() });
+				}
+				if(oCurObj.data.sSoundOver!="none")
+				{
+					oCurObj.data.jAudioOver = CL.Sound.Append({ oContainer: jAudioContainer, sId: argobj.pid + "_AUDIO2", sType: oCurObj.data.sSoundOver, sFile: oCurObj.jxParams.children("sound_over_file_custom").text() });
+				}
+				if(oCurObj.data.sSoundSuccess!="none")
+				{
+					oCurObj.data.jAudioSuccess = CL.Sound.Append({ oContainer: jAudioContainer, sId: argobj.pid + "_AUDIO3", sType: oCurObj.data.sSoundSuccess, sFile: oCurObj.jxParams.children("sound_success_file_custom").text() });
+				}
+				if(oCurObj.data.sSoundFailure!="none")
+				{
+					oCurObj.data.jAudioFailure = CL.Sound.Append({ oContainer: jAudioContainer, sId: argobj.pid + "_AUDIO4", sType: oCurObj.data.sSoundFailure, sFile: oCurObj.jxParams.children("sound_failure_file_custom").text() });
+				}
+				switch(oCurObj.data.sType)
+				{
+					case "true-false":
+					{
+						oCurObj.data.sScoringType = oCurObj.jxParams.children("q_scoring_type_tf").text();
+						oCurObj.data.bShuffle = (oCurObj.jxParams.children("q_elements_order").text()=="random");
+						break;
+					}
+					case "choice":
+					{
+						oCurObj.data.sScoringType = oCurObj.jxParams.children("q_scoring_type_choice").text();
+						oCurObj.data.jxVars = oCurObj.jxParams.find("q_variants_choice > item");
+						oCurObj.data.bShuffle = (oCurObj.jxParams.children("q_shuffle_choice").text()=="yes");
+						break;
+					}		
+					case "select":
+					{
+						oCurObj.data.sScoringType = oCurObj.jxParams.children("q_scoring_type_select").text();
+						oCurObj.data.jxVars = oCurObj.jxParams.find("q_variants_select > item");
+						oCurObj.data.bShuffle = (oCurObj.jxParams.children("q_shuffle_select").text()=="yes");
+						break;
+					}		
+					case "order":
+					{
+						oCurObj.data.sScoringType = oCurObj.jxParams.children("q_scoring_type_match").text();
+						oCurObj.data.jxVars = oCurObj.jxParams.find("q_variants_order > item");
+						oCurObj.data.bShuffle = true;
+						break;
+					}
+					case "numeric":
+					{
+						oCurObj.data.sScoringType = oCurObj.jxParams.children("q_scoring_type_inputs").text();
+						oCurObj.data.jxVars = oCurObj.jxParams.find("q_variants_numeric > item");
+						oCurObj.data.sOp = oCurObj.jxParams.children("q_var_logic_numeric").text();
+						break;
+					}
+					case "fib":
+					{
+						oCurObj.data.sScoringType = oCurObj.jxParams.children("q_scoring_type_inputs").text();
+						oCurObj.data.jxVars = oCurObj.jxParams.find("q_variants_fib > item");
+						oCurObj.data.sOp = oCurObj.jxParams.children("q_var_logic_fib").text();
+						break;
+					}
+					case "oto":
+					{
+						oCurObj.data.sScoringType = oCurObj.jxParams.children("q_scoring_type_match").text();
+						oCurObj.data.jxVars = oCurObj.jxParams.find("q_variants_oto > item");
+						break;
+					}
+				}
+				if(CLZ.oStore[sQuestionId]!=null)
+				{
+					switch(CLZ.oStore[sQuestionId].u)
+					{
+						case "c":
+						{
+							switch(oCurObj.jxParams.children("q_replay").text())
+							{
+								case "none_alert":
+								{
+									alert(oCurObj.jxParams.children("q_browse_alert").text());
+									// no break
+								}
+								case "none_silent":
+								{
+									oCurObj.data.sMode = "browse";
+									oCurObj.data.bNoMoreAttempts = true;
+									break;
+								}
+								case "allow_alert":
+								{
+									alert(oCurObj.jxParams.children("q_secondrun_alert").text());
+									// no break
+								}
+								case "allow_silent":
+								{
+									CLZ.oStore[sQuestionId] = {};
+									CLZ.oStore[sQuestionId] = null;
+									if(oCurObj.data.bCredit)
+									{
+										for(var j=0; j<oCurObj.data.jxObjectives.length; j++)
+										{
+											CL.SCO.RemoveScoreFromObjective({ sId: $(oCurObj.data.jxObjectives[j]).children("q_board").text(), sSrcId: argobj.pid });
+										}
+									}
+									break;
+								}
+								case "allow_confirm":
+								{
+									if(confirm(oCurObj.jxParams.children("q_secondrun_confirm").text()))
+									{
+										CLZ.oStore[sQuestionId] = {};
+										CLZ.oStore[sQuestionId] = null;
+										if(oCurObj.data.bCredit)
+										{
+											for(var j=0; j<oCurObj.data.jxObjectives.length; j++)
+											{
+												CL.SCO.RemoveScoreFromObjective({ sId: $(oCurObj.data.jxObjectives[j]).children("q_board").text(), sSrcId: argobj.pid });
+											}
+										}
+									}
+									else
+									{
+										oCurObj.data.sMode = "browse";
+										oCurObj.data.bNoMoreAttempts = true;
+									}
+									break;
+								}
+							}
+							break;
+						}
+						case "i":
+						{
+							switch(oCurObj.jxParams.children("q_continue").text())
+							{
+								case "restart_alert":
+								{
+									alert(oCurObj.jxParams.children("q_restart_alert").text());
+									// no break
+								}
+								case "restart_silent":
+								{
+									CLZ.oStore[sQuestionId] = {};
+									CLZ.oStore[sQuestionId] = null;
+									if(oCurObj.data.bCredit)
+									{
+										for(var j=0; j<oCurObj.data.jxObjectives.length; j++)
+										{
+											CL.SCO.RemoveScoreFromObjective({ sId: $(oCurObj.data.jxObjectives[j]).children("q_board").text(), sSrcId: argobj.pid });
+										}
+									}
+									break;
+								}
+								case "restore_alert":
+								{
+									alert(oCurObj.jxParams.children("q_restore_alert").text());
+									// no break
+								}
+								case "restore_silent":
+								{
+									oCurObj.data.sMode = "continue";
+									break;
+								}
+								case "restore_confirm":
+								{
+									if(confirm(oCurObj.jxParams.children("q_restore_confirm").text()))
+									{
+										oCurObj.data.sMode = "continue";
+									}
+									else
+									{
+										CLZ.oStore[sQuestionId] = {};
+										CLZ.oStore[sQuestionId] = null;
+										if(oCurObj.data.bCredit)
+										{
+											for(var j=0; j<oCurObj.data.jxObjectives.length; j++)
+											{
+												CL.SCO.RemoveScoreFromObjective({ sId: $(oCurObj.data.jxObjectives[j]).children("q_board").text(), sSrcId: argobj.pid });
+											}
+										}
+									}
+									break;
+								}
+							}
+							break;
+						}
+						default:
+						{
+							CLZ.oStore[sQuestionId] = {};
+							CLZ.oStore[sQuestionId] = null;
+							if(oCurObj.data.bCredit)
+							{
+								for(var j=0; j<oCurObj.data.jxObjectives.length; j++)
+								{
+									CL.SCO.RemoveScoreFromObjective({ sId: $(oCurObj.data.jxObjectives[j]).children("q_board").text(), sSrcId: argobj.pid });
+								}
+							}
+							break;
+						}
+					}
+				}
+				switch(oCurObj.data.sMode)
+				{
+					case "init":
+					{
+						// create storage
+						CLZ.oStore[sQuestionId] =
+						{
+							A:
+							[
+								{
+									s: 0,
+									d: 0,
+									u: "i"
+								}
+							],
+							O: [],
+							P: [],
+							R: [],
+							s: (new Date()).valueOf(),
+							y: CLD.CLTypeToAbbr[oCurObj.data.sType],
+							u: "i"
+						};
+						if(oCurObj.data.bCredit)
+						{
+							CLZ.oStore[sQuestionId].J = [];
+							oCurObj.data.jxObjectives.each(function () { CLZ.oStore[sQuestionId].J.push( $(this).children("q_board").text() ); });
+						}
+						if(oCurObj.data.bTimer)
+						{
+							var iTimer = +oCurObj.jxParams.children("q_timer").text();
+							if(isNaN(iTimer))
+							{
+								oCurObj.data.bTimer = false;
+							}
+							else
+							{
+								CLZ.oStore[sQuestionId].t = iTimer;
+								CLZ.oStore[sQuestionId].e = 0;
+							}
+						}
+						switch(oCurObj.data.sType)
+						{
+							case "true-false":
+							{
+								if(oCurObj.data.sScoringType=="plain" || oCurObj.data.sScoringType=="byobj" && oCurObj.jxParams.children("q_eval").text()!="byvar")
+								{
+									CLZ.oStore[sQuestionId].P.push( (oCurObj.jxParams.children("q_eval").text()=="true") ? 1 : 0 );
+								}
+								if(oCurObj.data.bShuffle)
+								{
+									var aShuffled = [];
+									for(var i=0; i<2; i++) aShuffled[i] = CLTOOLS.Dice({ iMax: 2, bIncludeMax: false, aUsed: aShuffled, iMaxTries: 1000 });
+									for(var i=0; i<2; i++) CLZ.oStore[sQuestionId].O.push(aShuffled[i]);
+								}
+								else
+								{
+									CLZ.oStore[sQuestionId].O = [ 0, 1 ];
+								}
+								// alwaus 1 attempt
+								break;
+							}
+							case "choice":
+							{
+								if(oCurObj.data.sScoringType=="fixed" || oCurObj.data.sScoringType=="plain" || oCurObj.data.sScoringType=="regressive" || oCurObj.data.sScoringType=="byobj") // fixed - 2.7 legacy
+								{
+									// 3.1.2.1
+									for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+									{
+										if($(oCurObj.data.jxVars[i-1]).children("q_right").text()=="yes")
+										{
+											CLZ.oStore[sQuestionId].P.push(i);
+											break;
+										}
+									}
+								}					
+								if(oCurObj.data.bShuffle)
+								{
+									var aShuffled = [];
+									for(var i=0; i<oCurObj.data.jxVars.length; i++) aShuffled.push( CLTOOLS.Dice({ iMax: oCurObj.data.jxVars.length, bIncludeMax: false, aUsed: aShuffled, iMaxTries: 1000 }) );
+									for(var i=0; i<oCurObj.data.jxVars.length; i++) CLZ.oStore[sQuestionId].O.push(aShuffled[i]+1);
+								}
+								else
+								{
+									for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+									{
+										CLZ.oStore[sQuestionId].O.push(i);
+									}
+								}
+								var iMaxAttepmts = 1;
+								if(oCurObj.data.sScoringType!="byvar")
+								{
+									if(oCurObj.jxParams.children("q_attempts_type").text()=="auto")
+									{
+										iMaxAttepmts = oCurObj.data.jxVars.length - 1;
+									}
+									else
+									{
+										iMaxAttepmts = +oCurObj.jxParams.children("q_attempts").text();
+									}
+								}
+								for(var i=1; i<iMaxAttepmts; i++)
+								{
+									CLZ.oStore[sQuestionId].A.push({ u: "n" });
+								}
+								break;
+							}
+							case "select":
+							{
+								if(oCurObj.data.sScoringType=="fixed" || oCurObj.data.sScoringType=="plain" || oCurObj.data.sScoringType=="regressive" || oCurObj.data.sScoringType=="byobj") // fixed - 2.7 legacy
+								{
+									for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+									{
+										if($(oCurObj.data.jxVars[i-1]).children("q_right").text()=="yes")
+										{
+											CLZ.oStore[sQuestionId].P.push(i);
+										}
+									}
+								}					
+								if(oCurObj.data.bShuffle)
+								{
+									var aShuffled = [];
+									for(var i=0; i<oCurObj.data.jxVars.length; i++) aShuffled.push( CLTOOLS.Dice({ iMax: oCurObj.data.jxVars.length, bIncludeMax: false, aUsed: aShuffled, iMaxTries: 1000 }) );
+									for(var i=0; i<oCurObj.data.jxVars.length; i++) CLZ.oStore[sQuestionId].O.push(aShuffled[i]+1);
+								}
+								else
+								{
+									for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+									{
+										CLZ.oStore[sQuestionId].O.push(i);
+									}
+								}
+								var iMaxAttepmts = 1;
+								if(oCurObj.data.sScoringType=="fixed" || oCurObj.data.sScoringType=="plain" || oCurObj.data.sScoringType=="regressive" || oCurObj.data.sScoringType=="byobj") // fixed - 2.7 legacy
+								{
+									if(oCurObj.jxParams.children("q_attempts_type").text()=="auto")
+									{
+										iMaxAttepmts = oCurObj.data.jxVars.length - 1;
+									}
+									else
+									{
+										iMaxAttepmts = +oCurObj.jxParams.children("q_attempts").text();
+									}
+								}
+								for(var i=1; i<iMaxAttepmts; i++)
+								{
+									CLZ.oStore[sQuestionId].A.push({ u: "n" });
+								}
+								break;
+							}
+							case "order":
+							{
+								for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+								{
+									CLZ.oStore[sQuestionId].P.push(i);
+								}					
+								var aShuffled = [];
+								for(var i=0; i<oCurObj.data.jxVars.length; i++) aShuffled.push( CLTOOLS.Dice({ iMax: oCurObj.data.jxVars.length, bIncludeMax: false, aUsed: aShuffled, iMaxTries: 1000 }) );
+								for(var i=0; i<oCurObj.data.jxVars.length; i++)
+								{
+									CLZ.oStore[sQuestionId].O.push(aShuffled[i]+1);
+									CLZ.oStore[sQuestionId].R.push(aShuffled[i]+1);
+								}
+								var iMaxAttepmts = 1;
+								if(oCurObj.data.sScoringType=="fixed" || oCurObj.data.sScoringType=="plain" || oCurObj.data.sScoringType=="regressive" || oCurObj.data.sScoringType=="byobj") // fixed - 2.7 legacy
+								{
+									if(oCurObj.jxParams.children("q_attempts_type").text()=="auto")
+									{
+										iMaxAttepmts = oCurObj.data.jxVars.length - 1;
+									}
+									else
+									{
+										iMaxAttepmts = +oCurObj.jxParams.children("q_attempts").text();
+									}
+								}
+								for(var i=1; i<iMaxAttepmts; i++)
+								{
+									CLZ.oStore[sQuestionId].A.push({ u: "n" });
+								}
+								break;
+							}
+							
+							case "numeric":
+							case "fib":
+							{
+								var oPattern;
+								var aConds;
+								var jVar;
+								var jConds;
+								for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+								{
+									jVar = $(oCurObj.data.jxVars[i-1]);
+									oPattern = { sOp: jVar.children("q_cond_logic").text() };
+									jConds = jVar.find("q_conditions > item");
+									aConds = [];
+									if(oCurObj.data.sType=="fib")
+									{
+										for(var j=0; j<jConds.length; j++)
+										{
+											aConds.push({ op: $(jConds[j]).children("q_condition").text(), val: $(jConds[j]).children("q_variant").text(), cs: ($(jConds[j]).children("q_case").text()=="yes") })
+										}
+									}
+									else
+									{
+										for(var j=0; j<jConds.length; j++)
+										{
+											aConds.push({ op: $(jConds[j]).children("q_condition").text(), val: +$(jConds[j]).children("q_variant").text() })
+										}
+									}
+									oPattern.aConds = aConds.slice(0);
+									CLZ.oStore[sQuestionId].P.push(oPattern);
+									CLZ.oStore[sQuestionId].R.push("");
+								}
+								for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+								{
+									CLZ.oStore[sQuestionId].O.push(i);
+								}
+								var iMaxAttepmts = 1;
+								if(oCurObj.jxParams.children("q_attempts_type").text()=="auto")
+								{
+									iMaxAttepmts = oCurObj.data.jxVars.length - 1;
+								}
+								else
+								{
+									iMaxAttepmts = +oCurObj.jxParams.children("q_attempts").text();
+								}
+								for(var i=1; i<iMaxAttepmts; i++)
+								{
+									CLZ.oStore[sQuestionId].A.push({ u: "n" });
+								}
+								break;
+							}
+							case "oto":
+							{
+								for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+								{
+									CLZ.oStore[sQuestionId].P.push(i);
+								}					
+								var aShuffled = [];
+								for(var i=0; i<oCurObj.data.jxVars.length; i++) aShuffled.push( CLTOOLS.Dice({ iMax: oCurObj.data.jxVars.length, bIncludeMax: false, aUsed: aShuffled, iMaxTries: 1000 }) );
+								for(var i=0; i<oCurObj.data.jxVars.length; i++)
+								{
+									CLZ.oStore[sQuestionId].O.push(aShuffled[i]+1);
+									CLZ.oStore[sQuestionId].R.push(aShuffled[i]+1);
+								}
+								var iMaxAttepmts = 1;
+								if(oCurObj.data.sScoringType=="fixed" || oCurObj.data.sScoringType=="plain" || oCurObj.data.sScoringType=="regressive" || oCurObj.data.sScoringType=="byobj") // fixed - 2.7 legacy
+								{
+									if(oCurObj.jxParams.children("q_attempts_type").text()=="auto")
+									{
+										iMaxAttepmts = oCurObj.data.jxVars.length - 1;
+									}
+									else
+									{
+										iMaxAttepmts = +oCurObj.jxParams.children("q_attempts").text();
+									}
+								}
+								for(var i=1; i<iMaxAttepmts; i++)
+								{
+									CLZ.oStore[sQuestionId].A.push({ u: "n" });
+								}
+								break;
+							}
+							
+						}
+						break;
+					}
+					case "browse":
+					case "continue":
+					{
+						break;
+					}
+				}
+				switch(oCurObj.data.sType)
+				{
+					case "true-false":
+					{
+						var jVarContainer = jCurObjDiv.find(".cl-q-vars");
+						var jVarDiv;
+						if(oCurObj.jxParams.children("q_elements_layout").text()=="v")
+						{
+							for(var i=0; i<CLZ.oStore[sQuestionId].O.length; i++)
+							{
+								iIdx = +CLZ.oStore[sQuestionId].O[i];
+								jVarDiv = $("#" + argobj.pid + "_Q_VAR_" + iIdx);
+								if(oCurObj.data.bShuffle)
+								{
+									jVarContainer.append( jVarDiv );
+								}
+								if(CLZ.oStore[sQuestionId].R.length!=0)
+								{
+									if(+CLZ.oStore[sQuestionId].R[0]==iIdx)
+									{
+										jVarDiv.removeClass("cl-var-idle").addClass("cl-var-selected");
+									}
+								}
+								if(oCurObj.data.sMode=="browse")
+								{
+									jVarDiv.addClass("cl-var-disabled");
+								}
+								else
+								{ 	// bind events
+									if(CL.bTouch)
+									{
+										jVarDiv.addClass("cl-var-clickable unselectable").on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+									}
+									else
+									{
+										jVarDiv.addClass("cl-var-clickable unselectable").on("mouseover", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); }).on("mouseout", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); }).on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+									}
+								}
+							}
+						}
+						else
+						{
+							var jParent = jCurObjDiv.find(".cl-q-vars-tf-h-td");
+							for(var i=0; i<CLZ.oStore[sQuestionId].O.length; i++)
+							{
+								iIdx = +CLZ.oStore[sQuestionId].O[i];
+								jVarDiv = $("#" + argobj.pid + "_Q_VAR_" + iIdx);
+								$(jParent[i]).append( jVarDiv );
+								if(CLZ.oStore[sQuestionId].R.length!=0)
+								{
+									if(+CLZ.oStore[sQuestionId].R[0]==iIdx)
+									{
+										jVarDiv.removeClass("cl-var-idle").addClass("cl-var-selected");
+									}
+								}
+								if(oCurObj.data.sMode=="browse")
+								{
+									jVarDiv.addClass("cl-var-disabled");
+								}
+								else
+								{ 	// bind events
+									if(CL.bTouch)
+									{
+										jVarDiv.addClass("cl-var-clickable").on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+									}
+									else
+									{
+										jVarDiv.addClass("cl-var-clickable").on("mouseover", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); }).on("mouseout", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); }).on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+									}
+								}
+							}
+						}
+						break;
+					}
+					case "choice":
+					{
+						// restoring variants area
+						var jVarContainer = jCurObjDiv.find(".cl-q-vars");
+						var jVarDiv;
+						for(var i=0; i<CLZ.oStore[sQuestionId].O.length; i++)
+						{
+							iIdx = +CLZ.oStore[sQuestionId].O[i];
+							jVarDiv = $("#" + argobj.pid + "_Q_VAR_" + iIdx);
+							if(oCurObj.data.bShuffle)
+							{
+								jVarContainer.append( jVarDiv );
+							}
+							if(CLZ.oStore[sQuestionId].R.length!=0)
+							{
+								if(+CLZ.oStore[sQuestionId].R[0]==iIdx)
+								{
+									jVarDiv.removeClass("cl-var-idle").addClass("cl-var-selected");
+								}
+							}
+							if(oCurObj.data.sMode=="browse")
+							{
+								jVarDiv.addClass("cl-var-disabled");
+							}
+							else
+							{ 	// bind events
+								if(CL.bTouch)
+								{
+									jVarDiv.addClass("cl-var-clickable unselectable").on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								}
+								else
+								{
+									jVarDiv.addClass("cl-var-clickable unselectable").on("mouseover", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); }).on("mouseout", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); }).on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								}
+							}
+						}
+						if(oCurObj.data.sMode=="browse")
+						{
+							if(CLZ.oStore[sQuestionId].sSkip!=null)
+							{
+								if(CLZ.oStore[sQuestionId].sSkip=="f")
+								{
+									jVarContainer.find(".cl-q-question-goal").html(oCurObj.jxParams.children("q_goal_failed").text());
+								}
+								else
+								{
+									jVarContainer.find(".cl-q-question-goal").html(oCurObj.jxParams.children("q_goal_skip").text());
+								}
+							}
+							else
+							{
+								jVarContainer.find(".cl-q-question-goal").html(oCurObj.jxParams.children("q_goal_last").text());
+							}
+						}
+						break;
+					}
+					case "select":
+					{
+						var jVarContainer = jCurObjDiv.find(".cl-q-vars");
+						var jVarDiv;
+						for(var i=0; i<CLZ.oStore[sQuestionId].O.length; i++)
+						{
+							iIdx = +CLZ.oStore[sQuestionId].O[i];
+							jVarDiv = $("#" + argobj.pid + "_Q_VAR_" + iIdx);
+							if(oCurObj.data.bShuffle)
+							{
+								jVarContainer.append( jVarDiv );
+							}
+							if(CLZ.oStore[sQuestionId].R.length!=0)
+							{
+								if($.inArray(iIdx, CLZ.oStore[sQuestionId].R)!=-1)
+								{
+									jVarDiv.removeClass("cl-var-idle").addClass("cl-var-selected");
+								}
+							}
+							if(oCurObj.data.sMode=="browse")
+							{
+								jVarDiv.addClass("cl-var-disabled");
+							}
+							else
+							{ 	// bind events
+								if(CL.bTouch)
+								{
+									jVarDiv.addClass("cl-var-clickable unselectable").on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								}
+								else
+								{
+									jVarDiv.addClass("cl-var-clickable unselectable").on("mouseover", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); }).on("mouseout", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); }).on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								}
+							}
+						}
+						break;
+					}
+					case "order":
+					{
+						var jVarContainer = jCurObjDiv.find(".cl-q-vars");
+						var jVarDiv;
+						for(var i=0; i<CLZ.oStore[sQuestionId].O.length; i++)
+						{
+							iIdx = +CLZ.oStore[sQuestionId].O[i];
+							jVarDiv = $("#" + argobj.pid + "_Q_VAR_" + iIdx);
+							jVarContainer.attr({ "id": argobj.pid + "_VC" }).append(jVarDiv);
+							if(oCurObj.data.sMode=="browse")
+							{
+								jVarDiv.addClass("cl-var-disabled");
+							}
+							else
+							{ 	// bind events
+								jVarDiv.addClass("unselectable cl-drag").draggable({ snap: false, scope: argobj.pid, refreshPositions: true, containment: $("#" + argobj.pid + "_VC"), axis: "y", stack: ".cl-var" }).droppable({ accept: ".cl-var", scope: argobj.pid }).on("drop", function(event, ui) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: event, elem: this, bullet: ui.draggable } }) });
+							}
+						}
+						break;
+					}
+					case "numeric":
+					case "fib":
+					{
+						var jVarDivs = jCurObjDiv.find(".cl-var");
+						var jInput;
+						for(var i=0; i<CLZ.oStore[sQuestionId].R.length; i++)
+						{
+							jInput = $(jVarDivs[i]).find(".cl-var-input");
+							if(CLZ.oStore[sQuestionId].R[i]!="")
+							{
+								jInput.val(CLZ.oStore[sQuestionId].R[i]);
+							}
+							if(oCurObj.data.sMode=="browse")
+							{
+								$(jVarDivs[i]).addClass("cl-var-disabled");
+							}
+							else
+							{ 	// bind events
+								jInput.on("keyup", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); }).on("blur", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+							}
+						}
+						break;
+					}
+					case "oto":
+					{
+						var jVarDivs = jCurObjDiv.find(".cl-var-bullet");
+						oCurObj.data.jNests = [];
+						jVarDivs.each(function () { oCurObj.data.jNests.push($(this).parent()); });
+						var jVar;
+						var iIdx;
+						for(var i=0; i<CLZ.oStore[sQuestionId].O.length; i++)
+						{
+							iIdx = CLZ.oStore[sQuestionId].O[i];
+							jVar = jCurObjDiv.find(".cl-var-bullet[data-vid='"+ iIdx +"']");
+							jVar.appendTo(oCurObj.data.jNests[i]);
+							if(oCurObj.data.sMode=="browse")
+							{
+								jVar.addClass("cl-var-disabled");
+							}
+							else
+							{ 	// bind events
+								jVar.addClass("unselectable cl-drag").draggable({ snap: false, refreshPositions: true, containment: jCurObjDiv.find(".cl-q-vars"), axis: "y", stack: ".cl-var-bullet" }).droppable({ accept: ".cl-var-bullet" }).on("drop", function(event, ui) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: event, elem: this, bullet: ui.draggable } }) });
+							}
+						}
+						break;
+					}
+				}
+				var iAttemptsLeft = 0;
+				for(var i=0; i<CLZ.oStore[sQuestionId].A.length; i++)
+				{
+					if(CLZ.oStore[sQuestionId].A[i].u=="c") continue;
+					iAttemptsLeft = CLZ.oStore[sQuestionId].A.length - i;
+					break;
+				}
+				jCurObjDiv.find(".cl-q-attempts-num").html( iAttemptsLeft );
+				if(oCurObj.data.bTimer)
+				{
+					oCurObj.CallMethod({ sMethod: "Timer", oMethodArgs: { action: "init" } });
+				}
+				if(CL.bTouch)
+				{
+					jCurObjDiv.find(".cl-btn, .cl-q-feedback-btn").on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+				}
+				else
+				{
+					jCurObjDiv.find(".cl-btn, .cl-q-feedback-btn").on("mouseover", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); }).on("mouseout", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); }).on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+				}
+				if(oCurObj.data.sMode=="init")
+				{
+					oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { target: "submit", action: "hide" } });
+					if(oCurObj.data.bSkip)
+					{
+						oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { target: "skip", action: "show" } });
+					}
+				}
+				else if(oCurObj.data.sMode=="continue")
+				{
+					oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { target: "submit", action: "hide" } });
+					oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { target: "skip", action: "remove" } });					
+				}
+				else if(oCurObj.data.sMode=="browse")
+				{
+					oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { target: "submit", action: "remove" } });
+					oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { target: "skip", action: "remove" } });					
+				}
+				oCurObj.data.bCreated = true;
+				if(oCurObj.data.bModal && (oCurObj.data.sMode!="browse"))
+				{
+					CL.Modal({ bOn: true, sSrcId: argobj.pid });
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0000" name="HandleEvt">
+<![CDATA[function HandleEvt(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false; 
+				switch(argobj.evt)
+				{
+					case "EVENT_OBJECT_SHOW":
+					{
+						if(!oCurObj.data.bCreated) return false;
+						oCurObj.CallMethod({ sMethod: "Constructor" });
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0000" name="UIEvent">
+<![CDATA[function UIEvent(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var sQuestionId = argobj.pid;
+				var jElem;
+				if($(argobj.elem).hasClass("cl-var-spot-td"))
+				{
+					jElem = $(argobj.elem).parents(".cl-var:first");
+				}
+				else
+				{
+					jElem = $(argobj.elem);
+				}
+				if(jElem.hasClass("cl-var") || jElem.hasClass("cl-var-bullet"))
+				{
+					if(jElem.hasClass("cl-var-disabled")) return false;
+					switch(argobj.evt.type)
+					{
+						case "mouseover":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundOver!="none")
+							{
+								CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioOver });
+							}
+							break;
+						}
+						case "mouseout":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundOver!="none")
+							{
+								CL.Sound.CLStop({ jPlayer: oCurObj.data.jAudioOver });
+							}
+							break;
+						}
+						case "click":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundClick!="none")
+							{
+								CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioClick });
+							}
+							// remove skip button if any
+							if(!oCurObj.data.bSkipRemoved)
+							{
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { target: "skip", action: "remove" } });
+								oCurObj.data.bSkipRemoved = true;
+							}
+							// hide feedback if any
+							oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { hide: true } }); 
+							switch(oCurObj.data.sType)
+							{
+								case "true-false":
+								case "choice":
+								{
+									if(jElem.hasClass("cl-var-selected")) return false;
+									jCurObjDiv.find(".cl-var").removeClass("cl-var-selected").addClass("cl-var-idle");  // clear all selected
+									jElem.removeClass("cl-var-idle").addClass("cl-var-selected");
+									CLZ.oStore[sQuestionId].R[0] = +jElem.attr("data-vid");
+									break;
+								}
+								case "select":
+								{
+									var iNum = +jElem.attr("data-vid"); 
+									var iIdx = $.inArray(iNum, CLZ.oStore[sQuestionId].R);
+									if(jElem.hasClass("cl-var-selected"))
+									{
+										jElem.removeClass("cl-var-selected").addClass("cl-var-idle");
+										if(iIdx!=-1)
+										{
+											CLZ.oStore[sQuestionId].R.splice(iIdx,1);
+										}
+									}
+									else
+									{
+										jElem.removeClass("cl-var-idle").addClass("cl-var-selected");
+										if(iIdx==-1)
+										{
+											CLZ.oStore[sQuestionId].R.push(iNum);
+										}
+									}
+									break;
+								}
+							}
+							oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { target: "submit", action: ((CLZ.oStore[sQuestionId].R.length>0) ? "show" : "hide") } });
+							break;
+						}
+						case "drop":
+						{ // order
+							argobj.evt.stopImmediatePropagation();
+							var iTargetIdx = +jElem.attr("data-vid");
+							var iBulletIdx = +$(argobj.bullet).attr("data-vid");
+							var aNewOrder = [];
+							if(!oCurObj.data.bSkipRemoved)
+							{
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { target: "skip", action: "remove" } });
+								oCurObj.data.bSkipRemoved = true;
+							}
+							for(var i=0; i<CLZ.oStore[sQuestionId].O.length; i++)
+							{
+								if(CLZ.oStore[sQuestionId].O[i]==iTargetIdx)
+								{
+									aNewOrder.push(iBulletIdx);
+								}
+								else if(CLZ.oStore[sQuestionId].O[i]==iBulletIdx)
+								{
+									aNewOrder.push(iTargetIdx);
+								}
+								else
+								{
+									aNewOrder.push(CLZ.oStore[sQuestionId].O[i]);
+								}
+							}
+							if(oCurObj.data.sType=="order")
+							{
+								var jParent = jElem.parent();
+								CLZ.oStore[sQuestionId].O = [];
+								CLZ.oStore[sQuestionId].R = [];
+								for(var i=0; i<aNewOrder.length; i++)
+								{
+									$("#" + argobj.pid + "_Q_VAR_" + aNewOrder[i]).css({ "top": "", "z-index": "" }).appendTo(jParent);
+									CLZ.oStore[sQuestionId].O.push(aNewOrder[i]);
+									CLZ.oStore[sQuestionId].R.push(aNewOrder[i]);
+								}
+							}
+							else if(oCurObj.data.sType=="oto")
+							{
+								CLZ.oStore[sQuestionId].O = [];
+								CLZ.oStore[sQuestionId].R = [];
+								for(var i=0; i<aNewOrder.length; i++)
+								{
+									jCurObjDiv.find(".cl-var-bullet[data-vid='"+ aNewOrder[i] +"']").css({ "top": "", "z-index": "" }).appendTo(oCurObj.data.jNests[i]);
+									CLZ.oStore[sQuestionId].O.push(aNewOrder[i]);
+									CLZ.oStore[sQuestionId].R.push(aNewOrder[i]);
+								}
+							}
+							oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { target: "submit", action: "show" } });
+							break;
+						}
+					}
+				}
+				else if(jElem.hasClass("cl-btn"))
+				{
+					switch(argobj.evt.type)
+					{
+						case "mouseover":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundOver!="none")
+							{
+								CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioOver });
+							}
+							break;
+						}
+						case "mouseout":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundOver!="none")
+							{
+								CL.Sound.CLStop({ jPlayer: oCurObj.data.jAudioOver });
+							}
+							break;
+						}
+						case "click":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundClick!="none")
+							{
+								CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioClick });
+							}
+							if(jElem.attr("data-action")=="submit")
+							{
+								oCurObj.CallMethod({ sMethod: "Submit" });
+							}
+							else if(jElem.attr("data-action")=="skip")
+							{
+								oCurObj.CallMethod({ sMethod: "Skip" });
+							}
+							jElem.hide();
+							break;
+						}
+					}
+				}
+				else if(jElem.hasClass("cl-var-input"))
+				{
+					var iIdx = +jElem.attr("data-vid") - 1;
+					switch(argobj.evt.type)
+					{
+						case "blur":
+						{
+							CLZ.oStore[sQuestionId].R[iIdx] = jElem.val();
+							break;
+						}
+						case "keyup":
+						{
+							var sValue = jElem.val();
+							if(oCurObj.data.sType=="numeric")
+							{
+								sValue = CL.Q.FixNumeric({ sText: sValue });
+							}
+							jElem.val(sValue);
+							var iIdx = +jElem.attr("data-vid") - 1;
+							CLZ.oStore[sQuestionId].R[iIdx] = sValue;
+							break;
+						}
+					}
+					// remove skip button if any
+					if(!oCurObj.data.bSkipRemoved)
+					{
+						oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { target: "skip", action: "remove" } });
+						oCurObj.data.bSkipRemoved = true;
+					}
+					oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { target: "submit", action: "show" } });
+				}
+				else if(jElem.hasClass("cl-q-feedback-btn"))
+				{
+					switch(argobj.evt.type)
+					{
+						case "mouseover":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundOver!="none")
+							{
+								CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioOver });
+							}
+							break;
+						}
+						case "mouseout":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundOver!="none")
+							{
+								CL.Sound.CLStop({ jPlayer: oCurObj.data.jAudioOver });
+							}
+							break;
+						}
+						case "click":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundClick!="none")
+							{
+								CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioClick });
+							}
+							oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { hide: true } });
+							break;
+						}
+					}
+				}
+				return true;	
+			}]]>
+</method>
+<method type="q_0000" name="Skip">
+<![CDATA[function Skip(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var sQuestionId = argobj.pid;
+				var sMsg = "";
+				var bFail = false;
+				switch(oCurObj.jxParams.children("q_skip").text())
+				{
+					case "skip":
+					{
+						sMsg = oCurObj.jxParams.children("q_goal_skip").text();
+						CLZ.oStore[sQuestionId].sSkip = "s";
+						break;
+					}
+					case "fail_confirm":
+					{
+						if(!confirm(oCurObj.jxParams.children("q_fail_confirm").text()))
+						{
+							return false;
+						}
+					} // break omitted intentionally
+					case "fail_silent":
+					{
+						bFail = true;
+						sMsg = oCurObj.jxParams.children("q_goal_failed").text();
+						CLZ.oStore[sQuestionId].sSkip = "f";
+						break;
+					}
+				}
+				jCurObjDiv.find(".cl-q-question-goal").html(sMsg);
+				oCurObj.FireEvent({ sName: "onSkipQuestion" })
+				oCurObj.CallMethod({ sMethod: "CloseQuestion", oMethodArgs: { bFail: bFail, bSkip: true } });
+				return true;
+			}]]>
+</method>
+<method type="q_0000" name="Submit">
+<![CDATA[function Submit(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var sQuestionId = argobj.pid; 
+				oCurObj.FireEvent({ sName: "onAttempt" });
+				var bCorrect = false;
+				var iCurrentTime = (new Date()).valueOf();
+				var iAttemptIdx = -1;
+				for(var i=0; i<CLZ.oStore[sQuestionId].A.length; i++)
+				{
+					if(CLZ.oStore[sQuestionId].A[i].u=="c") continue;
+					iAttemptIdx = i;
+					break;
+				}
+				if(iAttemptIdx==-1) return false; // extra fuse
+				if(CLZ.oStore[sQuestionId].R.length==0)
+				{
+					if(argobj.sReason=="timeout")
+					{
+						oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { correct: bCorrect } });
+					}
+					oCurObj.CallMethod({ sMethod: "CloseAttempt" });
+					oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+				}
+				else
+				{
+					var nScore = 0;
+					switch(oCurObj.data.sType)
+					{
+						case "true-false":
+						{
+							switch(oCurObj.data.sScoringType)
+							{
+								case "plain":
+								case "byobj":
+								{
+									if(CLZ.oStore[sQuestionId].R.length!=0)
+									{
+										bCorrect = (+CLZ.oStore[sQuestionId].R[0]==+CLZ.oStore[sQuestionId].P[0]);
+									}
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: false, bCorrect: bCorrect } });
+									if(oCurObj.data.bFeedback)
+									{
+										oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { correct: bCorrect } });
+									}
+									if(bCorrect)
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundSuccess!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioSuccess });
+										}
+										oCurObj.FireEvent({ sName: "onSuccess" });
+										if(oCurObj.data.bCredit)
+										{
+											switch(oCurObj.data.sScoringType)
+											{
+												case "plain":
+												{
+													nScore = oCurObj.data.nBaseScore;
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+												case "byobj":
+												{
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														nScore = +$(oCurObj.data.jxObjectives[i]).children("q_weight_byobj").text();
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+											}
+										}
+										oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									}
+									else
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundFailure!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioFailure });
+										}
+										oCurObj.FireEvent({ sName: "onFailure" });
+										if(oCurObj.data.bShowCorrect) // display correct state
+										{
+											for(var i=0; i<2; i++)
+											{
+												if(i==+CLZ.oStore[sQuestionId].P[0])
+												{
+													$("#" + argobj.pid + "_Q_VAR_" + i).removeClass("cl-var-idle").addClass("cl-var-selected cl-var-disabled");
+												}
+												else
+												{
+													$("#" + argobj.pid + "_Q_VAR_" + i).removeClass("cl-var-selected").addClass("cl-var-idle cl-var-disabled");
+												}
+											}
+											jCurObjDiv.find(".cl-q-question-goal").html(oCurObj.jxParams.children("q_goal_right").text());
+										}
+										if(oCurObj.data.bCredit)
+										{
+											nScore = 0;
+											for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+											{
+												CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+											}
+										}
+										oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									}
+									break;
+								}
+								case "byvar":
+								{
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: !bCorrect, bCorrect: true } });
+									if(oCurObj.data.bCredit)
+									{
+										if(+CLZ.oStore[sQuestionId].R[0]==1)
+										{
+											nScore = +oCurObj.jxParams.children("q_weight_true").text();
+										}
+										else if(+CLZ.oStore[sQuestionId].R[0]==0)
+										{
+											nScore = +oCurObj.jxParams.children("q_weight_false").text();
+										}
+										for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+										{
+											CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									break;
+								}
+							}
+							break;
+						}
+						case "choice":
+						{
+							switch(oCurObj.data.sScoringType)
+							{
+								case "fixed": // fixed - 2.7 legacy
+								case "plain":
+								case "regressive":
+								case "byobj":
+								{
+									if(CLZ.oStore[sQuestionId].R.length!=0)
+									{
+										bCorrect = (+CLZ.oStore[sQuestionId].R[0]==+CLZ.oStore[sQuestionId].P[0]);
+									}
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: !bCorrect, bCorrect: bCorrect } });
+									if(oCurObj.data.bFeedback)
+									{
+										oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { correct: bCorrect } });
+									}
+									if(bCorrect)
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundSuccess!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioSuccess });
+										}
+										oCurObj.FireEvent({ sName: "onSuccess" });
+										if(oCurObj.data.bCredit)
+										{
+											switch(oCurObj.data.sScoringType)
+											{
+												case "fixed": // 2.7 legacy
+												case "plain":
+												{
+													nScore = oCurObj.data.nBaseScore;
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+												case "regressive":
+												{
+													nScore = oCurObj.data.nBaseScore*(CLZ.oStore[sQuestionId].A.length - iAttemptIdx);
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+												case "byobj":
+												{
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														nScore = +$(oCurObj.data.jxObjectives[i]).children("q_weight_byobj").text();
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+											}
+										}
+										oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									}
+									else
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundFailure!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioFailure });
+										}
+										oCurObj.FireEvent({ sName: "onFailure" });
+										if(oCurObj.data.bNoMoreAttempts || oCurObj.data.bTimeout)
+										{
+											if(oCurObj.data.bShowCorrect) // display correct state
+											{
+												for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+												{
+													if(i==+CLZ.oStore[sQuestionId].P[0])
+													{
+														$("#" + argobj.pid + "_Q_VAR_" + i).removeClass("cl-var-idle").addClass("cl-var-selected cl-var-disabled");
+													}
+													else
+													{
+														$("#" + argobj.pid + "_Q_VAR_" + i).removeClass("cl-var-selected").addClass("cl-var-idle cl-var-disabled");
+													}
+												}
+												jCurObjDiv.find(".cl-q-question-goal").html(oCurObj.jxParams.children("q_goal_right").text());
+											}
+											if(oCurObj.data.bCredit)
+											{
+												nScore = 0;
+												for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+												{
+													CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+												}
+											}
+											oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+										}
+									}
+									break;
+								}
+								case "byvar":
+								{
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: false, bCorrect: true } });
+									if(oCurObj.data.bCredit)
+									{
+										nScore = +$(oCurObj.data.jxVars[+CLZ.oStore[sQuestionId].R[0]-1]).children("q_weight_by_connection").text();
+										for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+										{
+											CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									break;
+								}
+							}
+							break;
+						}
+						case "select":
+						{
+							switch(oCurObj.data.sScoringType)
+							{
+								case "fixed": // 2.7 legacy
+								case "plain":
+								case "regressive":
+								case "byobj":
+								{
+									if(CLZ.oStore[sQuestionId].R.length==CLZ.oStore[sQuestionId].P.length)
+									{
+										bCorrect = true;
+										for(var i=0; i<CLZ.oStore[sQuestionId].R.length; i++)
+										{
+											if($.inArray(+CLZ.oStore[sQuestionId].R[i], CLZ.oStore[sQuestionId].P)==-1)
+											{
+												bCorrect = false;
+												break;
+											}
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: !bCorrect, bCorrect: bCorrect } });
+									if(oCurObj.data.bFeedback)
+									{
+										oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { correct: bCorrect } });
+									}
+									if(bCorrect)
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundSuccess!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioSuccess });
+										}
+										oCurObj.FireEvent({ sName: "onSuccess" });
+										if(oCurObj.data.bCredit)
+										{
+											switch(oCurObj.data.sScoringType)
+											{
+												case "fixed": // 2.7 legacy
+												case "plain":
+												{
+													nScore = oCurObj.data.nBaseScore;
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+												case "regressive":
+												{
+													nScore = oCurObj.data.nBaseScore*(CLZ.oStore[sQuestionId].A.length - iAttemptIdx);
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+												case "byobj":
+												{
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														nScore = +$(oCurObj.data.jxObjectives[i]).children("q_weight_byobj").text();
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+											}
+										}
+										oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									}
+									else
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundFailure!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioFailure });
+										}
+										oCurObj.FireEvent({ sName: "onFailure" });
+										if(oCurObj.data.bNoMoreAttempts || oCurObj.data.bTimeout)
+										{
+											if(oCurObj.data.bShowCorrect) // display correct state
+											{
+												for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+												{
+													if($.inArray(i,CLZ.oStore[sQuestionId].P)!=-1)
+													{
+														$("#" + argobj.pid + "_Q_VAR_" + i).removeClass("cl-var-idle").addClass("cl-var-selected cl-var-disabled");
+													}
+													else
+													{
+														$("#" + argobj.pid + "_Q_VAR_" + i).removeClass("cl-var-selected").addClass("cl-var-idle cl-var-disabled");
+													}
+												}
+												jCurObjDiv.find(".cl-q-question-goal").html(oCurObj.jxParams.children("q_goal_right").text());
+											}
+											if(oCurObj.data.bCredit)
+											{
+												nScore = 0;
+												for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+												{
+													CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+												}
+											}
+											oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+										}
+									}
+									break;
+								}
+								case "sum":
+								case "avg":
+								case "max":
+								case "min":
+								{
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: false, bCorrect: true } });
+									if(oCurObj.data.bCredit)
+									{
+										var nSum = 0;
+										var nMax = -99999;
+										var nMin = 99999;
+										for(var i=0; i<CLZ.oStore[sQuestionId].R.length; i++)
+										{
+											nScore = +$(oCurObj.data.jxVars[+CLZ.oStore[sQuestionId].R[i]-1]).children("q_weight_by_connection").text();
+											nSum += nScore;
+											if(nMax<nScore) nMax = nScore;
+											if(nMin>nScore) nMin = nScore;
+										}
+										switch(oCurObj.data.sScoringType)
+										{
+											case "sum":
+											{
+												nScore = nSum;
+												break;
+											}
+											case "avg":
+											{
+												nScore = nSum/CLZ.oStore[sQuestionId].R.length;
+												break;
+											}
+											case "max":
+											{
+												nScore = nMax;
+												break;
+											}
+											case "min":
+											{
+												nScore = nMin;
+												break;
+											}
+										}
+										for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+										{
+											CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									break;
+								}
+							}
+							break;
+						}
+						case "order":
+						{
+							switch(oCurObj.data.sScoringType)
+							{
+								case "fixed": // 2.7 legacy
+								case "plain":
+								case "regressive":
+								case "byobj":
+								{
+									if(CLZ.oStore[sQuestionId].R.length==CLZ.oStore[sQuestionId].P.length)
+									{
+										bCorrect = true;
+										for(var i=0; i<CLZ.oStore[sQuestionId].R.length; i++)
+										{
+											if(+CLZ.oStore[sQuestionId].R[i] != +CLZ.oStore[sQuestionId].P[i])
+											{
+												bCorrect = false;
+												break;
+											}
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: !bCorrect, bCorrect: bCorrect } });
+									if(oCurObj.data.bFeedback)
+									{
+										oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { correct: bCorrect } });
+									}
+									if(bCorrect)
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundSuccess!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioSuccess });
+										}
+										oCurObj.FireEvent({ sName: "onSuccess" });
+										if(oCurObj.data.bCredit)
+										{
+											switch(oCurObj.data.sScoringType)
+											{
+												case "fixed": // 2.7 legacy
+												case "plain":
+												{
+													nScore = oCurObj.data.nBaseScore;
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+												case "regressive":
+												{
+													nScore = oCurObj.data.nBaseScore*(CLZ.oStore[sQuestionId].A.length - iAttemptIdx);
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+												case "byobj":
+												{
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														nScore = +$(oCurObj.data.jxObjectives[i]).children("q_weight_byobj").text();
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+											}
+										}
+										oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									}
+									else
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundFailure!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioFailure });
+										}
+										oCurObj.FireEvent({ sName: "onFailure" });
+										if(oCurObj.data.bNoMoreAttempts || oCurObj.data.bTimeout)
+										{
+											if(oCurObj.data.bShowCorrect) // display correct state
+											{
+												var jParent = jCurObjDiv.find(".cl-q-vars");
+												for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+												{
+													$("#" + argobj.pid + "_Q_VAR_" + i).removeClass("cl-var-idle").addClass("cl-var-selected cl-var-disabled").appendTo(jParent);
+												}
+												jCurObjDiv.find(".cl-q-question-goal").html(oCurObj.jxParams.children("q_goal_right").text());
+											}
+											if(oCurObj.data.bCredit)
+											{
+												nScore = 0;
+												for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+												{
+													CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+												}
+											}
+											oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+										}
+									}
+									break;
+								}
+								case "sum":
+								case "avg":
+								case "max":
+								case "min":
+								{
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: false, bCorrect: true } });
+									if(oCurObj.data.bCredit)
+									{
+										var nSum = 0;
+										var nMax = -99999;
+										var nMin = 99999;
+										for(var i=0; i<CLZ.oStore[sQuestionId].R.length; i++)
+										{
+											if(+CLZ.oStore[sQuestionId].R[i] != +CLZ.oStore[sQuestionId].P[i]) continue;
+											nScore = +$(oCurObj.data.jxVars[+CLZ.oStore[sQuestionId].R[i]-1]).children("q_weight_by_connection").text();
+											nSum += nScore;
+											if(nMax<nScore) nMax = nScore;
+											if(nMin>nScore) nMin = nScore;
+										}
+										switch(oCurObj.data.sScoringType)
+										{
+											case "sum":
+											{
+												nScore = nSum;
+												break;
+											}
+											case "avg":
+											{
+												nScore = nSum/CLZ.oStore[sQuestionId].R.length;
+												break;
+											}
+											case "max":
+											{
+												nScore = nMax;
+												break;
+											}
+											case "min":
+											{
+												nScore = nMin;
+												break;
+											}
+										}
+										for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+										{
+											CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									break;
+								}
+							}
+							break;
+						}
+						case "numeric":
+						case "fib":
+						{
+							var aCorrect = [];
+							for(var i=0; i<CLZ.oStore[sQuestionId].P.length; i++)
+							{
+								aCorrect.push(CL.Q.EvalSet({ sType: oCurObj.data.sType, sValue: CLZ.oStore[sQuestionId].R[i], oPattern: CLZ.oStore[sQuestionId].P[i] }));
+							}
+							bCorrect = (oCurObj.data.sOp=="AND");
+							for(var i=0; i<aCorrect.length; i++)
+							{
+								if(oCurObj.data.sOp=="AND")
+								{
+									if(aCorrect[i]!=true)
+									{
+										bCorrect = false;
+										break;
+									}
+								}
+								else if(oCurObj.data.sOp=="OR")
+								{
+									if(aCorrect[i]==true)
+									{
+										bCorrect = true;
+										break;
+									}
+								}
+							}
+							if(oCurObj.data.bFeedback)
+							{
+								oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { correct: bCorrect } });
+							}
+							oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: !bCorrect, bCorrect: bCorrect } });
+							if(bCorrect)
+							{
+								if(CLZ.bSoundOn && oCurObj.data.sSoundSuccess!="none")
+								{
+									CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioSuccess });
+								}
+								oCurObj.FireEvent({ sName: "onSuccess" });
+								if(oCurObj.data.bCredit)
+								{
+									switch(oCurObj.data.sScoringType)
+									{
+										case "fixed": // 2.7 legacy
+										case "plain":
+										{
+											nScore = oCurObj.data.nBaseScore;
+											for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+											{
+												CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+											}
+											break;
+										}
+										case "regressive":
+										{
+											nScore = oCurObj.data.nBaseScore*(CLZ.oStore[sQuestionId].A.length - iAttemptIdx);
+											for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+											{
+												CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+											}
+											break;
+										}
+										case "byobj":
+										{
+											for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+											{
+												nScore = +$(oCurObj.data.jxObjectives[i]).children("q_weight_byobj").text();
+												CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+											}
+											break;
+										}
+									}
+								}
+								oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+							}
+							else
+							{
+								if(CLZ.bSoundOn && oCurObj.data.sSoundFailure!="none")
+								{
+									CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioFailure });
+								}
+								oCurObj.FireEvent({ sName: "onFailure" });
+								if(oCurObj.data.bNoMoreAttempts || oCurObj.data.bTimeout)
+								{
+									if(oCurObj.data.bShowCorrect) // display correct state
+									{
+										var jVar;
+										var sString = "";
+										var oPattern;
+										for(var i=0; i<CLZ.oStore[sQuestionId].P.length; i++)
+										{
+											oPattern = CLZ.oStore[sQuestionId].P[i];
+											sString = "";
+											for(var j=0; j<oPattern.aConds.length; j++)
+											{
+												if(j>0) sString += " " + oPattern.sOp + " ";
+												sString += "(";
+												switch(oPattern.aConds[j].op)
+												{
+													case "eq": sString += "==" + oPattern.aConds[j].val; break;
+													case "ne": sString += "!=" + oPattern.aConds[j].val; break;
+													case "gt": sString += ">" + oPattern.aConds[j].val; break;
+													case "gte": sString += ">=" + oPattern.aConds[j].val; break;
+													case "lt": sString += "<" + oPattern.aConds[j].val; break;
+													case "lte": sString += "<=" + oPattern.aConds[j].val; break;
+													case "cn": sString += "*" + oPattern.aConds[j].val + "*"; break;
+													case "ew": sString += "*" + oPattern.aConds[j].val; break;
+													case "bw": sString += oPattern.aConds[j].val + "*"; break;
+												}
+												sString += ")";
+											}
+											jVar = $("#" + argobj.pid + "_Q_VAR_" + (i+1));
+											jVar.find(".cl-var-input").val(sString);
+											jVar.addClass("cl-var-disabled");
+										}
+										jCurObjDiv.find(".cl-q-question-goal").html(oCurObj.jxParams.children("q_goal_right").text());
+									}
+									if(oCurObj.data.bCredit)
+									{
+										nScore = 0;
+										for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+										{
+											CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+								}
+							}
+							break;
+						}
+						case "oto":
+						{
+							switch(oCurObj.data.sScoringType)
+							{
+								case "fixed": // 2.7 legacy
+								case "plain":
+								case "regressive":
+								case "byobj":
+								{
+									if(CLZ.oStore[sQuestionId].R.length==CLZ.oStore[sQuestionId].P.length)
+									{
+										bCorrect = true;
+										for(var i=0; i<CLZ.oStore[sQuestionId].R.length; i++)
+										{
+											if(+CLZ.oStore[sQuestionId].R[i] != +CLZ.oStore[sQuestionId].P[i])
+											{
+												bCorrect = false;
+												break;
+											}
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: !bCorrect, bCorrect: bCorrect } });
+									if(oCurObj.data.bFeedback)
+									{
+										oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { correct: bCorrect } });
+									}
+									if(bCorrect)
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundSuccess!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioSuccess });
+										}
+										oCurObj.FireEvent({ sName: "onSuccess" });
+										if(oCurObj.data.bCredit)
+										{
+											switch(oCurObj.data.sScoringType)
+											{
+												case "fixed": // 2.7 legacy
+												case "plain":
+												{
+													nScore = oCurObj.data.nBaseScore;
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+												case "regressive":
+												{
+													nScore = oCurObj.data.nBaseScore*(CLZ.oStore[sQuestionId].A.length - iAttemptIdx);
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+												case "byobj":
+												{
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														nScore = +$(oCurObj.data.jxObjectives[i]).children("q_weight_byobj").text();
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+											}
+										}
+										oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									}
+									else
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundFailure!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioFailure });
+										}
+										oCurObj.FireEvent({ sName: "onFailure" });
+										if(oCurObj.data.bNoMoreAttempts || oCurObj.data.bTimeout)
+										{
+											if(oCurObj.data.bShowCorrect) // display correct state
+											{
+												var jParent = jCurObjDiv.find(".cl-q-vars");
+												for(var i=0; i<CLZ.oStore[sQuestionId].P.length; i++)
+												{
+													jCurObjDiv.find(".cl-var-bullet[data-vid='"+ CLZ.oStore[sQuestionId].P[i] +"']").css({ "top": "", "z-index": "" }).appendTo(oCurObj.data.jNests[i]);
+												}
+												jCurObjDiv.find(".cl-q-question-goal").html(oCurObj.jxParams.children("q_goal_right").text());
+											}
+											if(oCurObj.data.bCredit)
+											{
+												nScore = 0;
+												for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+												{
+													CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+												}
+											}
+											oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+										}
+									}
+									break;
+								}
+								case "sum":
+								case "avg":
+								case "max":
+								case "min":
+								{
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: false, bCorrect: true } });
+									if(oCurObj.data.bCredit)
+									{
+										var nSum = 0;
+										var nMax = -99999;
+										var nMin = 99999;
+										for(var i=0; i<CLZ.oStore[sQuestionId].R.length; i++)
+										{
+											if(+CLZ.oStore[sQuestionId].R[i] != +CLZ.oStore[sQuestionId].P[i]) continue;
+											nScore = +$(oCurObj.data.jxVars[+CLZ.oStore[sQuestionId].R[i]-1]).children("q_weight_by_connection").text();
+											nSum += nScore;
+											if(nMax<nScore) nMax = nScore;
+											if(nMin>nScore) nMin = nScore;
+										}
+										switch(oCurObj.data.sScoringType)
+										{
+											case "sum":
+											{
+												nScore = nSum;
+												break;
+											}
+											case "avg":
+											{
+												nScore = nSum/CLZ.oStore[sQuestionId].R.length;
+												break;
+											}
+											case "max":
+											{
+												nScore = nMax;
+												break;
+											}
+											case "min":
+											{
+												nScore = nMin;
+												break;
+											}
+										}
+										for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+										{
+											CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									break;
+								}
+							}
+							break;
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0000" name="Feedback">
+<![CDATA[function Feedback(argobj)
+			{
+				var oCurObj = CLO[argobj.pid]; 
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.jxParams.children("q_fb_switch").text()!="yes") return false;
+				var jFB = jCurObjDiv.find("#" + argobj.pid + "_Q_FB");
+				oCurObj.iFBTimer = 0;
+				if(jFB.is(":visible")) jFB.fadeOut();
+				if(argobj.hide!=null)
+				{
+					return true;
+				}
+				jFB.removeClass();
+				var sFB = "";
+				if(argobj.correct==true)
+				{
+					if(oCurObj.jxParams.children("q_display_fb_correct").text()=="yes")
+					{
+						sFB = "correct";
+					}
+				}
+				else if(oCurObj.data.bTimeout)
+				{
+					if(oCurObj.jxParams.children("q_display_fb_timeout").text()=="yes")
+					{
+						sFB = "timeout";
+					}
+				}
+				else if(oCurObj.data.bNoMoreAttempts)
+				{
+					if(oCurObj.jxParams.children("q_display_fb_exceed").text()=="yes")
+					{
+						sFB = "exceed";
+					}
+					else if(oCurObj.jxParams.children("q_display_fb_incorrect").text()=="yes")
+					{
+						sFB = "incorrect";
+					}
+				}
+				else
+				{
+					if(CLZ.oStore[argobj.pid].A.length>1)
+					{
+						if(oCurObj.data.bLastAttempt)
+						{
+							if(oCurObj.jxParams.children("q_display_fb_lastattempt").text()=="yes")
+							{
+								sFB = "lastattempt";
+							}
+						}
+						else
+						{
+							if(oCurObj.jxParams.children("q_display_fb_incorrect").text()=="yes")
+							{
+								sFB = "incorrect";
+							}
+						}
+					}
+					else
+					{
+						if(oCurObj.jxParams.children("q_display_fb_incorrect").text()=="yes")
+						{
+							sFB = "incorrect";
+						}
+					}
+				}
+				if(sFB!="")
+				{
+					jFB.find(".cl-q-feedback-txt").html( oCurObj.jxParams.children("q_fb_" + sFB).text() );
+					jFB.addClass("cl-q-feedback cl-q-feedback-" + sFB).fadeIn();
+					if(oCurObj.jxParams.children("q_fb_timerswitch").text()=="yes")
+					{
+						oCurObj.iFBTimer = setTimeout(function () { oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { hide: true } }); }, +oCurObj.jxParams.children("q_fb_timer").text());
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0000" name="Button">
+<![CDATA[function Button(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div); 
+				var jBtn = jCurObjDiv.find("#" + argobj.pid + "_BUTTON_" + argobj.target);
+				if(jBtn.length!=0)
+				{
+					if(argobj.action=="show")
+					{
+						jBtn.show();
+					}
+					else if(argobj.action=="hide")
+					{
+						jBtn.hide();
+					}
+					else if(argobj.action=="remove")
+					{
+						jBtn.remove();
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0000" name="Timer">
+<![CDATA[function Timer(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var sQuestionId = argobj.pid;
+				if(!oCurObj.data.bTimer) return false;
+				var jIndicator = jCurObjDiv.find(".cl-q-timer-indicator");
+				var jValue = jCurObjDiv.find(".cl-q-timer .cl-q-timer-value-number");
+				var iTimerLeft = CLZ.oStore[sQuestionId].t - CLZ.oStore[sQuestionId].e;
+				switch(argobj.action)
+				{
+					case "init":
+					{
+						jCurObjDiv.find(".cl-q-timer").show();
+						var jValueContainer = jCurObjDiv.find(".cl-q-timer .cl-q-timer-value");
+						jValueContainer.css({ "width": jValueContainer.innerWidth + "px" });
+						jValue.html(iTimerLeft);
+						var sTW = Math.round(100 * iTimerLeft / CLZ.oStore[sQuestionId].t) + "%";
+						jIndicator.width(sTW).show();
+						if(oCurObj.data.sMode!="browse")
+						{
+							sTW = Math.round(100 * (iTimerLeft-1) / CLZ.oStore[sQuestionId].t) + "%";
+							jIndicator.animate({ "width": sTW }, { duration: 1000, easing: "linear" } );
+							oCurObj.data.iQTimer = setTimeout(function () { oCurObj.CallMethod({ sMethod: "Timer" }); }, 1000);
+						}
+						break;
+					}
+					case "stop":
+					{
+						jIndicator.stop(true, false);
+						clearTimeout(oCurObj.data.iQTimer);
+						oCurObj.data.iQTimer = null;
+						break;
+					}
+					case "suspend":
+					{
+						break;
+					}
+					case "count":
+					default:
+					{
+						if(jCurObjDiv.is(":visible"))
+						{
+							iTimerLeft--;
+							CLZ.oStore[sQuestionId].e++;
+							jValue.html(iTimerLeft);
+							if(iTimerLeft>0)
+							{
+								var sTW = Math.round(100 * (iTimerLeft-1) / CLZ.oStore[sQuestionId].t) + "%";
+								jIndicator.animate({ "width": sTW }, { duration: 1000, easing: "linear" });
+								if(iTimerLeft < 0.25*CLZ.oStore[sQuestionId].t)
+								{
+									if(iTimerLeft < 0.125*CLZ.oStore[sQuestionId].t)
+									{
+										jIndicator.removeClass("cl-q-timer-indicator-warn").addClass("cl-q-timer-indicator-panic");
+									}
+									else
+									{
+										jIndicator.removeClass("cl-q-timer-indicator-idle").addClass("cl-q-timer-indicator-warn");
+									}
+								}
+								oCurObj.data.iQTimer = setTimeout(function () { oCurObj.CallMethod({ sMethod: "Timer" }); }, 1000);
+							}
+							else
+							{
+								jIndicator.width(0).hide();
+								oCurObj.data.bTimeout = true;
+								oCurObj.FireEvent({ sName: "onTimeout" });
+								oCurObj.CallMethod({ sMethod: "Submit", oMethodArgs: { sReason: "timeout" } });
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0000" name="CloseAttempt">
+<![CDATA[function CloseAttempt(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var sQuestionId = argobj.pid;
+				var iAttemptIdx = -1;
+				for(var i=0; i<CLZ.oStore[sQuestionId].A.length; i++)
+				{
+					if(CLZ.oStore[sQuestionId].A[i].u=="c") continue;
+					iAttemptIdx = i;
+					break;
+				}
+				var iNow = (new Date()).valueOf();
+				var iStart = CLZ.oStore[sQuestionId].A[iAttemptIdx].s;
+				CLZ.oStore[sQuestionId].A[iAttemptIdx] =
+				{
+					R: CLZ.oStore[sQuestionId].R.slice(0),
+					s: iStart,
+					d: iNow - iStart - CLZ.oStore[sQuestionId].s,
+					u: "c"
+				}; // current attempt closed
+				iAttemptIdx++;
+				var iAttemptsLeft = CLZ.oStore[sQuestionId].A.length - iAttemptIdx;
+				if(iAttemptsLeft<0) iAttemptsLeft = 0;
+				if(argobj.bCorrect)
+				{
+					CLZ.oStore[sQuestionId].r = argobj.bCorrect ? "c" : "i";
+				}
+				jCurObjDiv.find(".cl-q-attempts-num").html( iAttemptsLeft );
+				if(iAttemptsLeft==0 || CLZ.oStore[sQuestionId].A[iAttemptIdx]==null)
+				{
+					oCurObj.data.bNoMoreAttempts = true;
+					CLO[argobj.pid].FireEvent({ sName: "onAttemptsLimit" });
+				}
+				else
+				{
+					if(argobj.bInitNext)
+					{
+						CLZ.oStore[sQuestionId].A[iAttemptIdx] =
+						{
+							s: iNow - CLZ.oStore[sQuestionId].s,
+							d: 0,
+							u: "i"
+						}
+						if((CLZ.oStore[sQuestionId].A.length>1) && (iAttemptIdx==CLZ.oStore[sQuestionId].A.length-1))
+						{
+							oCurObj.data.bLastAttempt = true;
+							oCurObj.FireEvent({ sName: "onLastAttemptStart" });
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0000" name="CloseQuestion">
+<![CDATA[function CloseQuestion(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var sQuestionId = argobj.pid;
+				oCurObj.CallMethod({ sMethod: "Timer", oMethodArgs: { action: "stop" } });
+				if(argobj.bFail==true)
+				{
+					oCurObj.CallMethod({ sMethod: "Submit", oMethodArgs: { bFail: true } });
+				}
+				var jVars;
+				switch(oCurObj.data.sType)
+				{
+					case "true-false":
+					case "choice":
+					case "select":
+					{
+						jVars = jCurObjDiv.find(".cl-var");
+						break;
+					}
+					case "order":
+					{
+						jVars = jCurObjDiv.find(".cl-var");
+						if(jVars.hasClass("ui-draggable"))
+						{
+							jVars.draggable("destroy");
+						}
+						break;
+					}
+					case "numeric":
+					case "fib":
+					{
+						jVars = jCurObjDiv.find(".cl-var");
+						jVars.find(".cl-var-input").prop("disabled", true);
+						break;
+					}
+					case "oto":
+					case "otm":
+					case "mtm":
+					{
+						jVars = jCurObjDiv.find(".cl-var-bullet");
+						if(jVars.hasClass("ui-draggable"))
+						{
+							jVars.draggable("destroy");
+						}
+						if(jVars.hasClass("ui-droppable"))
+						{
+							jVars.droppable("destroy");
+						}
+						break;
+					}
+				}
+				jVars.addClass("cl-var-disabled");
+				jCurObjDiv.find(".cl-btn").remove();		
+				if(oCurObj.data.bModal)
+				{
+					CL.Modal({ bOn: false, sSrcId: argobj.pid });
+				}
+				CLZ.oStore[sQuestionId].d = (new Date()).valueOf() - CLZ.oStore[sQuestionId].s;
+				CLZ.oStore[sQuestionId].u = "c";
+				oCurObj.FireEvent({ sName: "onQuestionEnd" })
+				return true;
+			}]]>
+</method>
+<method type="q_0000" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return "";
+				if(CLO[argobj.pid]==null) return "";
+				switch(argobj.property.toLowerCase())
+				{
+					case "questionmode":
+					{
+						return ((CLO[argobj.pid].data.sMode=="browse") ? "review" : "normal");
+					}
+					case "questiontype":
+					{
+						return CLO[argobj.pid].data.sType;
+					}
+					case "questionduration":
+					{
+						return ((CLO[argobj.pid].data.bTimer==true) ? CLZ.oStore[argobj.pid].t : "");
+					}
+					case "questiontimer":
+					{
+						return ((CLO[argobj.pid].data.bTimer==true) ? (CLZ.oStore[argobj.pid].t - CLZ.oStore[argobj.pid].e) : "");
+					}
+					case "itemquantity":
+					{
+						return CLO[argobj.pid].data.jxVars.length;
+					}
+					case "questionvalue":
+					{
+						return CLZ.oStore[argobj.pid].R.join(",");
+					}
+					case "attemptslast":
+					{
+						var iAttemptsLeft = 0;
+						for(var i=0; i<CLZ.oStore[argobj.pid].A.length; i++)
+						{
+							if(CLZ.oStore[sQuestionId].A[i].u=="c") continue;
+							iAttemptsLeft = CLZ.oStore[argobj.pid].A.length - i;
+							break;
+						}
+						return iAttemptsLeft;
+					}
+					case "attemptstotal":
+					{
+						return CLZ.oStore[argobj.pid].A.length;
+					}
+				}
+				return "";
+			}]]>
+</method>
+</methods>
+<params>
+<param objectid="EM1_NEXT">
+<role>nextslide</role>
+<selectedslide></selectedslide>
+<selectedframe></selectedframe>
+<fs_thisslide></fs_thisslide>
+<text_thisslide>ПОВТОР</text_thisslide>
+<alt_enabled_thisslide>Повторить слайд</alt_enabled_thisslide>
+<alt_disabled_thisslide>Повтор запрещен</alt_disabled_thisslide>
+<fs_nextslide></fs_nextslide>
+<text_nextslide>ДАЛЕЕ</text_nextslide>
+<alt_enabled_nextslide>Следующий слайд</alt_enabled_nextslide>
+<alt_disabled_nextslide>Переход запрещен</alt_disabled_nextslide>
+<fs_prevslide></fs_prevslide>
+<text_prevslide>НАЗАД</text_prevslide>
+<alt_enabled_prevslide>Предыдущий слайд</alt_enabled_prevslide>
+<alt_disabled_prevslide>Переход запрещен</alt_disabled_prevslide>
+<fs_firstslide></fs_firstslide>
+<text_firstslide>НАЧАЛО</text_firstslide>
+<alt_enabled_firstslide>Первый слайд</alt_enabled_firstslide>
+<alt_disabled_firstslide>Переход запрещен</alt_disabled_firstslide>
+<fs_lastslide></fs_lastslide>
+<text_lastslide>КОНЕЦ</text_lastslide>
+<alt_enabled_lastslide>Последний слайд</alt_enabled_lastslide>
+<alt_disabled_lastslide>Переход запрещен</alt_disabled_lastslide>
+<fs_nextframe></fs_nextframe>
+<text_nextframe>Далее</text_nextframe>
+<alt_enabled_nextframe>Следующий кадр</alt_enabled_nextframe>
+<alt_disabled_nextframe>Переход запрещен</alt_disabled_nextframe>
+<fs_prevframe></fs_prevframe>
+<text_prevframe>Назад</text_prevframe>
+<alt_enabled_prevframe>Предыдущий кадр</alt_enabled_prevframe>
+<alt_disabled_prevframe>Переход запрещен</alt_disabled_prevframe>
+<fs_firstframe></fs_firstframe>
+<text_firstframe>Начало</text_firstframe>
+<alt_enabled_firstframe>Первый кадр</alt_enabled_firstframe>
+<alt_disabled_firstframe>Переход запрещен</alt_disabled_firstframe>
+<fs_lastframe></fs_lastframe>
+<text_lastframe>Конец</text_lastframe>
+<alt_enabled_lastframe>Последний кадр</alt_enabled_lastframe>
+<alt_disabled_lastframe>Переход запрещен</alt_disabled_lastframe>
+<fs_selectedslide></fs_selectedslide>
+<text_selectedslide></text_selectedslide>
+<alt_enabled_selectedslide>Перейти на слайд</alt_enabled_selectedslide>
+<alt_disabled_selectedslide>Переход запрещен</alt_disabled_selectedslide>
+<fs_selectedframe></fs_selectedframe>
+<text_selectedframe></text_selectedframe>
+<alt_enabled_selectedframe>Перейти на кадр</alt_enabled_selectedframe>
+<alt_disabled_selectedframe>Переход запрещен</alt_disabled_selectedframe>
+<fs_closemodule></fs_closemodule>
+<text_closemodule>ВЫЙТИ</text_closemodule>
+<alt_enabled_closemodule>Закрыть модуль</alt_enabled_closemodule>
+<alt_disabled_closemodule></alt_disabled_closemodule>
+<closemodule_msg>Подтверждаете закрытие модуля?</closemodule_msg>
+<nav_lock>yes</nav_lock>
+<btn_type>html</btn_type>
+<fs_image></fs_image>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<n3_img></n3_img>
+<fs_html></fs_html>
+<bg_type>auto</bg_type>
+<bg_color>#0080C0</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_style>solid</border_style>
+<border_color>#004080</border_color>
+<border_width>1</border_width>
+<border_radius>5</border_radius>
+<shadow_strength>normal</shadow_strength>
+<content>text</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1></bg_img_1>
+<bg_img_2></bg_img_2>
+<bg_img_3></bg_img_3>
+<bg_position>center</bg_position>
+<fs_text></fs_text>
+<font>robotoregular</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>12</font_size>
+<font_color>#004080</font_color>
+<font_color_over>#4080C0</font_color_over>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<text_position>center</text_position>
+<text_margin_left>0</text_margin_left>
+<text_margin_right>0</text_margin_right>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+<display_closemodule_msg>no</display_closemodule_msg>
+<swipe>yes</swipe>
+</param>
+<param objectid="EM1_BACK">
+<role>prevslide</role>
+<selectedslide></selectedslide>
+<selectedframe></selectedframe>
+<fs_thisslide></fs_thisslide>
+<text_thisslide>ПОВТОР</text_thisslide>
+<alt_enabled_thisslide>Повторить слайд</alt_enabled_thisslide>
+<alt_disabled_thisslide>Повтор запрещен</alt_disabled_thisslide>
+<fs_nextslide></fs_nextslide>
+<text_nextslide>ДАЛЕЕ</text_nextslide>
+<alt_enabled_nextslide>Следующий слайд</alt_enabled_nextslide>
+<alt_disabled_nextslide>Переход запрещен</alt_disabled_nextslide>
+<fs_prevslide></fs_prevslide>
+<text_prevslide>НАЗАД</text_prevslide>
+<alt_enabled_prevslide>Предыдущий слайд</alt_enabled_prevslide>
+<alt_disabled_prevslide>Переход запрещен</alt_disabled_prevslide>
+<fs_firstslide></fs_firstslide>
+<text_firstslide>НАЧАЛО</text_firstslide>
+<alt_enabled_firstslide>Первый слайд</alt_enabled_firstslide>
+<alt_disabled_firstslide>Переход запрещен</alt_disabled_firstslide>
+<fs_lastslide></fs_lastslide>
+<text_lastslide>КОНЕЦ</text_lastslide>
+<alt_enabled_lastslide>Последний слайд</alt_enabled_lastslide>
+<alt_disabled_lastslide>Переход запрещен</alt_disabled_lastslide>
+<fs_nextframe></fs_nextframe>
+<text_nextframe>Далее</text_nextframe>
+<alt_enabled_nextframe>Следующий кадр</alt_enabled_nextframe>
+<alt_disabled_nextframe>Переход запрещен</alt_disabled_nextframe>
+<fs_prevframe></fs_prevframe>
+<text_prevframe>Назад</text_prevframe>
+<alt_enabled_prevframe>Предыдущий кадр</alt_enabled_prevframe>
+<alt_disabled_prevframe>Переход запрещен</alt_disabled_prevframe>
+<fs_firstframe></fs_firstframe>
+<text_firstframe>Начало</text_firstframe>
+<alt_enabled_firstframe>Первый кадр</alt_enabled_firstframe>
+<alt_disabled_firstframe>Переход запрещен</alt_disabled_firstframe>
+<fs_lastframe></fs_lastframe>
+<text_lastframe>Конец</text_lastframe>
+<alt_enabled_lastframe>Последний кадр</alt_enabled_lastframe>
+<alt_disabled_lastframe>Переход запрещен</alt_disabled_lastframe>
+<fs_selectedslide></fs_selectedslide>
+<text_selectedslide></text_selectedslide>
+<alt_enabled_selectedslide>Перейти на слайд</alt_enabled_selectedslide>
+<alt_disabled_selectedslide>Переход запрещен</alt_disabled_selectedslide>
+<fs_selectedframe></fs_selectedframe>
+<text_selectedframe></text_selectedframe>
+<alt_enabled_selectedframe>Перейти на кадр</alt_enabled_selectedframe>
+<alt_disabled_selectedframe>Переход запрещен</alt_disabled_selectedframe>
+<fs_closemodule></fs_closemodule>
+<text_closemodule>ВЫЙТИ</text_closemodule>
+<alt_enabled_closemodule>Закрыть модуль</alt_enabled_closemodule>
+<alt_disabled_closemodule></alt_disabled_closemodule>
+<closemodule_msg>Подтверждаете закрытие модуля?</closemodule_msg>
+<nav_lock>yes</nav_lock>
+<btn_type>html</btn_type>
+<fs_image></fs_image>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<n3_img></n3_img>
+<fs_html></fs_html>
+<bg_type>auto</bg_type>
+<bg_color>#0080C0</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_style>solid</border_style>
+<border_color>#004080</border_color>
+<border_width>1</border_width>
+<border_radius>5</border_radius>
+<shadow_strength>normal</shadow_strength>
+<content>text</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1></bg_img_1>
+<bg_img_2></bg_img_2>
+<bg_img_3></bg_img_3>
+<bg_position>center</bg_position>
+<fs_text></fs_text>
+<font>robotoregular</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>12</font_size>
+<font_color>#004080</font_color>
+<font_color_over>#4080C0</font_color_over>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<text_position>center</text_position>
+<text_margin_left>0</text_margin_left>
+<text_margin_right>0</text_margin_right>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+<display_closemodule_msg>no</display_closemodule_msg>
+<swipe>yes</swipe>
+</param>
+<param objectid="OBJ_5">
+<role>closemodule</role>
+<selectedslide></selectedslide>
+<selectedframe></selectedframe>
+<fs_thisslide></fs_thisslide>
+<text_thisslide>ПОВТОР</text_thisslide>
+<alt_enabled_thisslide>Повторить слайд</alt_enabled_thisslide>
+<alt_disabled_thisslide>Повтор запрещен</alt_disabled_thisslide>
+<fs_nextslide></fs_nextslide>
+<text_nextslide>ДАЛЕЕ</text_nextslide>
+<alt_enabled_nextslide>Следующий слайд</alt_enabled_nextslide>
+<alt_disabled_nextslide>Переход запрещен</alt_disabled_nextslide>
+<fs_prevslide></fs_prevslide>
+<text_prevslide>НАЗАД</text_prevslide>
+<alt_enabled_prevslide>Предыдущий слайд</alt_enabled_prevslide>
+<alt_disabled_prevslide>Переход запрещен</alt_disabled_prevslide>
+<fs_firstslide></fs_firstslide>
+<text_firstslide>НАЧАЛО</text_firstslide>
+<alt_enabled_firstslide>Первый слайд</alt_enabled_firstslide>
+<alt_disabled_firstslide>Переход запрещен</alt_disabled_firstslide>
+<fs_lastslide></fs_lastslide>
+<text_lastslide>КОНЕЦ</text_lastslide>
+<alt_enabled_lastslide>Последний слайд</alt_enabled_lastslide>
+<alt_disabled_lastslide>Переход запрещен</alt_disabled_lastslide>
+<fs_nextframe></fs_nextframe>
+<text_nextframe>Далее</text_nextframe>
+<alt_enabled_nextframe>Следующий кадр</alt_enabled_nextframe>
+<alt_disabled_nextframe>Переход запрещен</alt_disabled_nextframe>
+<fs_prevframe></fs_prevframe>
+<text_prevframe>Назад</text_prevframe>
+<alt_enabled_prevframe>Предыдущий кадр</alt_enabled_prevframe>
+<alt_disabled_prevframe>Переход запрещен</alt_disabled_prevframe>
+<fs_firstframe></fs_firstframe>
+<text_firstframe>Начало</text_firstframe>
+<alt_enabled_firstframe>Первый кадр</alt_enabled_firstframe>
+<alt_disabled_firstframe>Переход запрещен</alt_disabled_firstframe>
+<fs_lastframe></fs_lastframe>
+<text_lastframe>Конец</text_lastframe>
+<alt_enabled_lastframe>Последний кадр</alt_enabled_lastframe>
+<alt_disabled_lastframe>Переход запрещен</alt_disabled_lastframe>
+<fs_selectedslide></fs_selectedslide>
+<text_selectedslide></text_selectedslide>
+<alt_enabled_selectedslide>Перейти на слайд</alt_enabled_selectedslide>
+<alt_disabled_selectedslide>Переход запрещен</alt_disabled_selectedslide>
+<fs_selectedframe></fs_selectedframe>
+<text_selectedframe></text_selectedframe>
+<alt_enabled_selectedframe>Перейти на кадр</alt_enabled_selectedframe>
+<alt_disabled_selectedframe>Переход запрещен</alt_disabled_selectedframe>
+<fs_closemodule></fs_closemodule>
+<text_closemodule>Завершить</text_closemodule>
+<alt_enabled_closemodule>Закрыть модуль</alt_enabled_closemodule>
+<alt_disabled_closemodule></alt_disabled_closemodule>
+<display_closemodule_msg>no</display_closemodule_msg>
+<closemodule_msg>Подтверждаете закрытие модуля?</closemodule_msg>
+<nav_lock>yes</nav_lock>
+<swipe>yes</swipe>
+<btn_type>html</btn_type>
+<fs_image></fs_image>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<n3_img></n3_img>
+<fs_html></fs_html>
+<bg_type>auto</bg_type>
+<border_style>solid</border_style>
+<border_width>1</border_width>
+<border_radius>5</border_radius>
+<bg_color>#0080C0</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_color>#004080</border_color>
+<shadow_strength>normal</shadow_strength>
+<content>text</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1></bg_img_1>
+<bg_img_2></bg_img_2>
+<bg_img_3></bg_img_3>
+<bg_position>center</bg_position>
+<fs_text></fs_text>
+<text_position>center</text_position>
+<text_margin_left>0</text_margin_left>
+<text_margin_right>0</text_margin_right>
+<font>robotoblack</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>14</font_size>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<font_color>#004080</font_color>
+<font_color_over>#4080C0</font_color_over>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="EM1_TTL_BTN">
+<btn_text>НАЧАТЬ</btn_text>
+<btn_type>html</btn_type>
+<fs_image></fs_image>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<fs_html></fs_html>
+<content>text</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1></bg_img_1>
+<bg_img_2></bg_img_2>
+<bg_position>center</bg_position>
+<bg_type>auto</bg_type>
+<bg_color>#0080C0</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_style>solid</border_style>
+<border_color>#004080</border_color>
+<border_width>1</border_width>
+<border_radius>5</border_radius>
+<fs_text></fs_text>
+<font>robotomedium</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_color>#004080</font_color>
+<font_size>18</font_size>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<text_shadow_strength>normal</text_shadow_strength>
+<shadow_strength>normal</shadow_strength>
+<action>go</action>
+<objectid></objectid>
+</param>
+<param objectid="OBJ_4">
+<hidden.label.header>Подсчет максимальных баллов</hidden.label.header>
+<hidden.label.question>Вопрос:</hidden.label.question>
+<hidden.label.credit>оцениваемый</hidden.label.credit>
+<hidden.label.nocredit>неоцениваемый</hidden.label.nocredit>
+<hidden.label.scoring>Расчет оценки:</hidden.label.scoring>
+<hidden.label.plain>Общий вес во все цели</hidden.label.plain>
+<hidden.label.regressive>Вес, умноженный на число попыток, регрессивно по попыткам во все цели</hidden.label.regressive>
+<hidden.label.byobj>Разный вес в разные цели</hidden.label.byobj>
+<hidden.label.var>Вес выбранного варианта</hidden.label.var>
+<hidden.label.maxscore>Максимальная оценка по целям:</hidden.label.maxscore>
+<hidden.label.noobj>В вопросе не определены цели - результаты не сохраняются!</hidden.label.noobj>
+<hidden.label.toomany>Число правильных ответов не равно 1! Вопрос будет работать некорректно!</hidden.label.toomany>
+<hidden.label.useit>Вы можете использовать эти значения при расчете максимальных баллов модуля по целям.</hidden.label.useit>
+<hidden.label.hide>Чтобы скрыть/показать этот служебный элемент используйте маркер на закладке Оценка.</hidden.label.hide>
+<theme>light</theme>
+<border_color>#0080C0</border_color>
+<bg_color>#D5EAFF</bg_color>
+<base_color>#FFFFFF</base_color>
+<question_type>choice</question_type>
+<display_question_text>yes</display_question_text>
+<text_main><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">Каково главное отличие статического сайта от динамического?</span>]]></text_main>
+<fs_true-false></fs_true-false>
+<q_text_true><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">Да</span>]]></q_text_true>
+<q_text_false><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">Нет</span>]]></q_text_false>
+<q_elements_order>tf</q_elements_order>
+<q_elements_layout>v</q_elements_layout>
+<q_eval>true</q_eval>
+<fs_tf_weights></fs_tf_weights>
+<q_weight_true>1.0</q_weight_true>
+<q_weight_false>0.0</q_weight_false>
+<fs_choice></fs_choice>
+<q_variants_choice>
+<item>
+<q_right>yes</q_right>
+<q_variant><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">Момент генерации страниц сайта</span>]]></q_variant>
+<q_weight_by_connection>1.0</q_weight_by_connection>
+</item>
+</q_variants_choice>
+<q_shuffle_choice>no</q_shuffle_choice>
+<fs_select></fs_select>
+<q_variants_select>
+<item>
+<q_right>no</q_right>
+<q_variant><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">Текст по умолчанию</span>]]></q_variant>
+<q_weight_by_connection>1.0</q_weight_by_connection>
+</item>
+</q_variants_select>
+<q_shuffle_select>no</q_shuffle_select>
+<fs_order></fs_order>
+<q_variants_order>
+<item>
+<q_variant><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">Текст по умолчанию</span>]]></q_variant>
+<q_weight_by_connection>1.0</q_weight_by_connection>
+</item>
+</q_variants_order>
+<fs_numeric></fs_numeric>
+<q_variants_numeric>
+<item>
+<q_explanation><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">Инструкция</span>]]></q_explanation>
+<q_exp_position>right</q_exp_position>
+<q_conditions></q_conditions>
+<q_cond_logic>AND</q_cond_logic>
+<q_width_numeric>0</q_width_numeric>
+</item>
+</q_variants_numeric>
+<q_var_logic_numeric>AND</q_var_logic_numeric>
+<fs_fib></fs_fib>
+<q_variants_fib>
+<item>
+<q_explanation><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">Инструкция</span>]]></q_explanation>
+<q_exp_position>right</q_exp_position>
+<q_conditions></q_conditions>
+<q_cond_logic>AND</q_cond_logic>
+<q_width>0</q_width>
+</item>
+</q_variants_fib>
+<q_var_logic_fib>AND</q_var_logic_fib>
+<fs_oto></fs_oto>
+<q_variants_oto>
+<item>
+<q_target><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">Текст по умолчанию</span>]]></q_target>
+<q_bullet><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">Текст по умолчанию</span>]]></q_bullet>
+<q_weight_by_connection>1.0</q_weight_by_connection>
+</item>
+</q_variants_oto>
+<fs_attempts></fs_attempts>
+<q_attempts_type>fixed</q_attempts_type>
+<q_attempts>1</q_attempts>
+<q_scored>yes</q_scored>
+<fs_scoring></fs_scoring>
+<q_scoring_type_tf>plain</q_scoring_type_tf>
+<q_scoring_type_choice>plain</q_scoring_type_choice>
+<q_scoring_type_select>plain</q_scoring_type_select>
+<q_scoring_type_match>plain</q_scoring_type_match>
+<q_scoring_type_inputs>plain</q_scoring_type_inputs>
+<q_weight>69.0</q_weight>
+<q_scoreboards>
+<item>
+<q_board>total</q_board>
+<q_weight_byobj>69.0</q_weight_byobj>
+</item>
+</q_scoreboards>
+<q_timer_switch>no</q_timer_switch>
+<fs_timer></fs_timer>
+<q_timer>10</q_timer>
+<timer_color_1>#0080C0</timer_color_1>
+<timer_color_2>#800080</timer_color_2>
+<timer_color_3>#FF0000</timer_color_3>
+<q_skip>none</q_skip>
+<q_fail_confirm>Пропущенный вопрос будет засчитан как проваленный. Вы уверены?</q_fail_confirm>
+<q_continue>restore_silent</q_continue>
+<q_restart_alert>Вопрос будет начат сначала, сохраненное состояние вопроса будет сброшено.</q_restart_alert>
+<q_restore_alert>Вопрос уже был начат, его состояние будет восстановлено.</q_restore_alert>
+<q_restore_confirm>Вопрос уже был начат. Восстановить его состояние?</q_restore_confirm>
+<q_replay>none_silent</q_replay>
+<q_browse_alert>Вопрос уже отвечен. Повторный подход запрещен.</q_browse_alert>
+<q_secondrun_alert>Продолжение подхода.</q_secondrun_alert>
+<q_secondrun_confirm>Вопрос уже отвечен. Нажмите OK, если хотите пройти его заново или Cancel, чтобы оставить старый результат.</q_secondrun_confirm>
+<modal>no</modal>
+<q_img>none</q_img>
+<fs_picture></fs_picture>
+<q_img_file></q_img_file>
+<q_img_width>33</q_img_width>
+<spot_color_switch>no</spot_color_switch>
+<spot_color>#0080C0</spot_color>
+<font_color_switch>no</font_color_switch>
+<font_color>#0080C0</font_color>
+<q_showright>no</q_showright>
+<q_fb_switch>yes</q_fb_switch>
+<fs_fb></fs_fb>
+<q_display_fb_correct>yes</q_display_fb_correct>
+<q_fb_correct><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">Правильно</span>]]></q_fb_correct>
+<q_fb_correct_preview>no</q_fb_correct_preview>
+<q_display_fb_incorrect>yes</q_display_fb_incorrect>
+<q_fb_incorrect><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">К сожалению, Вы ошиблись</span>]]></q_fb_incorrect>
+<q_fb_incorrect_preview>no</q_fb_incorrect_preview>
+<q_display_fb_lastattempt>no</q_display_fb_lastattempt>
+<q_fb_lastattempt><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">К сожалению, Вы ошиблись. Осталась всего одна попытка.</span>]]></q_fb_lastattempt>
+<q_fb_lastattempt_preview>no</q_fb_lastattempt_preview>
+<q_display_fb_exceed>no</q_display_fb_exceed>
+<q_fb_exceed><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">К сожалению Вы исчерпали все попытки, но не ввели правильный ответ</span>]]></q_fb_exceed>
+<q_fb_exceed_preview>no</q_fb_exceed_preview>
+<q_display_fb_timeout>no</q_display_fb_timeout>
+<q_fb_timeout><![CDATA[<span style="font-family: Arial, Helvetica, sans-serif;font-size: 12px; color: #000000;">К сожалению время, отведенное на ответ, закончилось</span>]]></q_fb_timeout>
+<q_fb_timeout_preview>no</q_fb_timeout_preview>
+<q_fb_timerswitch>no</q_fb_timerswitch>
+<q_fb_timer>3000</q_fb_timer>
+<q_fb_box_width>30</q_fb_box_width>
+<q_fb_position>no</q_fb_position>
+<q_fb_left>40</q_fb_left>
+<q_fb_top>10</q_fb_top>
+<q_fb_correct_color_bg>#E0FFE0</q_fb_correct_color_bg>
+<q_fb_correct_color_border>#006600</q_fb_correct_color_border>
+<q_fb_correct_color_close>#006600</q_fb_correct_color_close>
+<q_fb_incorrect_color_bg>#FFE0D0</q_fb_incorrect_color_bg>
+<q_fb_incorrect_color_border>#CC0000</q_fb_incorrect_color_border>
+<q_fb_incorrect_color_close>#CC0000</q_fb_incorrect_color_close>
+<q_fb_lastattempt_color_bg>#FFE0D0</q_fb_lastattempt_color_bg>
+<q_fb_lastattempt_color_border>#CC0000</q_fb_lastattempt_color_border>
+<q_fb_lastattempt_color_close>#CC0000</q_fb_lastattempt_color_close>
+<q_fb_exceed_color_bg>#FFE0D0</q_fb_exceed_color_bg>
+<q_fb_exceed_color_border>#CC0000</q_fb_exceed_color_border>
+<q_fb_exceed_color_close>#CC0000</q_fb_exceed_color_close>
+<q_fb_timeout_color_bg>#FFE0D0</q_fb_timeout_color_bg>
+<q_fb_timeout_color_border>#CC0000</q_fb_timeout_color_border>
+<q_fb_timeout_color_close>#CC0000</q_fb_timeout_color_close>
+<q_customspot>no</q_customspot>
+<fs_spots></fs_spots>
+<q_spot_0></q_spot_0>
+<q_spot_1></q_spot_1>
+<q_custombutton>no</q_custombutton>
+<fs_button></fs_button>
+<q_button_type>HTML</q_button_type>
+<fs_btn_img></fs_btn_img>
+<q_abtn_0></q_abtn_0>
+<q_abtn_1></q_abtn_1>
+<q_sbtn_0></q_sbtn_0>
+<q_sbtn_1></q_sbtn_1>
+<fs_btn_html></fs_btn_html>
+<q_button_width>150</q_button_width>
+<q_button_height>25</q_button_height>
+<button_border_style>solid</button_border_style>
+<button_border_width>2</button_border_width>
+<button_radius>5</button_radius>
+<button_font>robotomedium</button_font>
+<button_font_custom></button_font_custom>
+<button_font_style>normal</button_font_style>
+<button_font_size>12</button_font_size>
+<button_text_align>center</button_text_align>
+<button_border_color>#0080C0</button_border_color>
+<button_border_color_over>#6666CC</button_border_color_over>
+<button_bg_color>#0080C0</button_bg_color>
+<button_bg_color_over>#F0F0F0</button_bg_color_over>
+<button_font_color>#FFFFFF</button_font_color>
+<button_font_color_over>#000000</button_font_color_over>
+<basic_font>robotoregular</basic_font>
+<basic_font_custom></basic_font_custom>
+<button_layout>left</button_layout>
+<q_base_width>50</q_base_width>
+<q_base_padding>10</q_base_padding>
+<q_credit_msg>Вопрос оцениваемый</q_credit_msg>
+<q_nocredit_msg>Вопрос неоцениваемый</q_nocredit_msg>
+<q_attempts_msg>Осталось попыток</q_attempts_msg>
+<q_timer_msg>Время на вопрос</q_timer_msg>
+<q_timer_sec>сек</q_timer_sec>
+<q_goal_right>ПРАВИЛЬНЫЙ ОТВЕТ</q_goal_right>
+<q_goal_last>ПОСЛЕДНЕЕ СОСТОЯНИЕ ВОПРОСА</q_goal_last>
+<q_goal_skip>ВОПРОС ПРОПУЩЕН</q_goal_skip>
+<q_goal_failed>ВОПРОС ПРОПУЩЕН И ПРОВАЛЕН</q_goal_failed>
+<q_a_tooltip>ПРИНЯТЬ ОТВЕТ</q_a_tooltip>
+<q_s_tooltip>ПРОПУСТИТЬ</q_s_tooltip>
+<lab_q_goal>choice</lab_q_goal>
+<q_goal_tf>Выберите правильный вариант</q_goal_tf>
+<q_goal_choice>Выберите правильный вариант</q_goal_choice>
+<q_goal_select>Выберите все правильные варианты</q_goal_select>
+<q_goal_order>Разместите элементы в правильном порядке</q_goal_order>
+<q_goal_numeric>Введите правильный ответ</q_goal_numeric>
+<q_goal_fib>Введите правильный ответ</q_goal_fib>
+<q_goal_oto>Распределите элементы справа по правильным парам</q_goal_oto>
+<q_goal_otm>Распределите элементы справа по правильным группам</q_goal_otm>
+<q_goal_mtm>Свяжите элементы справа с элементами слева</q_goal_mtm>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+<sound_success>none</sound_success>
+<sound_success_file_custom></sound_success_file_custom>
+<sound_failure>none</sound_failure>
+<sound_failure_file_custom></sound_failure_file_custom>
+</param>
+</params>
+<objectives>
+<objective module="yes" id="total" name="Главная цель модуля" cs="i" ss="u" scoremax="100" scoremin="0"/>
+</objectives>
+<rules>
+<rule objective="total" cs="c" ss="p">
+<condition type="score" objective="total" comp="ge" score="85"/>
+</rule>
+</rules>
+<runtimechecks>
+</runtimechecks>
+</module>

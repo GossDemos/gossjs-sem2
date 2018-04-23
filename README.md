@@ -45,6 +45,9 @@ PHP
   - [Код](https://github.com/nikitinskaya/1603-part1)
   - [Heroku app](https://boiling-castle-92735.herokuapp.com/)
 
+## 23/03/2018
+- [Задание по SCORM](2303/scorm/)
+
 ## 30/03/2018
 - [Асинхронные задания](https://codepen.io/nikitinskaya/pen/EEEwOZ)
 - [Приложение на Silex](https://github.com/nikitinskaya/silex-app-sem2)
