@@ -44,6 +44,7 @@ PHP
 - Часть 1
   - [Код](https://github.com/nikitinskaya/1603-part1)
   - [Heroku app](https://boiling-castle-92735.herokuapp.com/)
+- Части 2-4: см. приложение на Silex, 30/03
 
 ## 23/03/2018
 - [Задание по SCORM](2303/scorm/)
