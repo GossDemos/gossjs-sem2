@@ -48,6 +48,7 @@ PHP
 
 ## 23/03/2018
 - [Задание по SCORM](2303/scorm/)
+- [WP API](2303/part1-2/)
 
 ## 30/03/2018
 - [Асинхронные задания](https://codepen.io/nikitinskaya/pen/EEEwOZ)
