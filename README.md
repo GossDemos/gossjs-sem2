@@ -61,3 +61,7 @@ PHP
 - Задание 2: Кастомные элементы-счетчики
   - [код](1304/part2)
   - [демо](http://nikitinskaya.me/gossjs-sem2/1304/part2/)
+
+## 27/04/2018
+- [Задание 1](https://kodaktor.ru/g/7487418?5)
+  send a number as a GET parameter and look at all the stars!
