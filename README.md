@@ -70,3 +70,4 @@ PHP
   - [class component](https://kodaktor.ru/7487418_44b67?8)
 
 - [2-way bound input fields](https://kodaktor.ru/min_react_live_c097b)
+- [Задание 2 - лайкер](https://github.com/nikitinskaya/react-liker/tree/master)
