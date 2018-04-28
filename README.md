@@ -63,5 +63,8 @@ PHP
   - [демо](http://nikitinskaya.me/gossjs-sem2/1304/part2/)
 
 ## 27/04/2018
-- [Задание 1](https://kodaktor.ru/g/7487418?5)
-  send a number as a GET parameter and look at all the stars!
+- Задание 1
+
+    send a number as a GET parameter and look at all the stars!
+  - [functional component](https://kodaktor.ru/7487418?5)
+  - [class component](https://kodaktor.ru/7487418_44b67?8)
