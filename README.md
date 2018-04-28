@@ -68,3 +68,5 @@ PHP
     send a number as a GET parameter and look at all the stars!
   - [functional component](https://kodaktor.ru/7487418?5)
   - [class component](https://kodaktor.ru/7487418_44b67?8)
+
+- [2-way bound input fields](https://kodaktor.ru/min_react_live_c097b)
