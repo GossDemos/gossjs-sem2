@@ -62,6 +62,9 @@ PHP
   - [код](1304/part2)
   - [демо](http://nikitinskaya.me/gossjs-sem2/1304/part2/)
 
+## 20/04/2018
+- [Код 1-2, демо 3](https://github.com/nikitinskaya/console_js_demo)
+
 ## 27/04/2018
 - Задание 1
 
