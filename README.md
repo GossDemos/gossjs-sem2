@@ -50,7 +50,9 @@ PHP
 - [Задание по SCORM](2303/scorm/)
 - [WP API](2303/part1-2/)
 - [Byte inverter](https://codepen.io/nikitinskaya/pen/NMRoaj) -- in progress, still works weird
-
+- WP with plugins
+  - [Plugins](2303/wp/)
+  - [Live site](http://46.161.54.16)
 
 ## 30/03/2018
 - [Асинхронные задания](https://codepen.io/nikitinskaya/pen/EEEwOZ)
