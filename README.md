@@ -2,6 +2,8 @@
 
 Задания - 2 семестр, весна 2018
 
+Семестровые отмечены ⭐️, лабораторные из списка #️⃣
+
 ## 09/02/2018
 JS
 
@@ -21,7 +23,7 @@ PHP
 - [diff2html](1602/part1/)
 - [Функции](1602/part2/)
 - [Замыкания](1602/part4/)
-- [Квайны](1602/part3/)
+- [7️⃣ Квайны](1602/part3/)
 
 
 ## 02/03/2018
@@ -36,7 +38,7 @@ PHP
   - [Задание 1](http://nikitinskaya.me/gossjs-sem2/0203/task1)
   - Задание 2
     - [Часть 1](http://nikitinskaya.me/gossjs-sem2/0203/task2/part1)
-    - [Часть 2](http://nikitinskaya.me/gossjs-sem2/0203/task2/part2)
+    - [1️⃣ Часть 2 - привязка контекста](http://nikitinskaya.me/gossjs-sem2/0203/task2/part2)
   - [Задание 3](http://nikitinskaya.me/gossjs-sem2/0203/task3)
 
 ## 16/03/2018
@@ -47,27 +49,27 @@ PHP
 - Части 2-4: см. приложение на Silex, 30/03
 
 ## 23/03/2018
-- [Задание по SCORM](2303/scorm/)
-- [WP API](2303/part1-2/)
+- [⭐ Задание по SCORM](2303/scorm/)
+- [6️⃣ WP API](2303/part1-2/)
 - [Byte inverter](https://codepen.io/nikitinskaya/pen/NMRoaj) -- in progress, still works weird
 - WP with plugins
-  - [Plugins](2303/wp/)
+  - [5️⃣ Plugins](2303/wp/)
   - [Live site](http://46.161.54.16)
 
 ## 30/03/2018
-- [Асинхронные задания](https://codepen.io/nikitinskaya/pen/EEEwOZ)
+- [2️⃣ Асинхронные задания](https://codepen.io/nikitinskaya/pen/EEEwOZ)
 - [Приложение на Silex](https://github.com/nikitinskaya/silex-app-sem2)
 
 ## 13/04/2018
 - Задание 1: асинхронный компонент средствами DOM
   - [код](1304/part1)
   - [демо](http://nikitinskaya.me/gossjs-sem2/1304/part1/)
-- Задание 2: Кастомные элементы-счетчики
+- 4️⃣  Задание 2: Кастомные элементы-счетчики
   - [код](1304/part2)
   - [демо](http://nikitinskaya.me/gossjs-sem2/1304/part2/)
 
 ## 20/04/2018
-- [Код 1-2, демо 3](https://github.com/nikitinskaya/console_js_demo)
+- [8️⃣ 9️⃣ Код 1-2, демо 3](https://github.com/nikitinskaya/console_js_demo)
 
 ## 27/04/2018
 - Задание 1
@@ -77,4 +79,16 @@ PHP
   - [class component](https://kodaktor.ru/7487418_44b67?8)
 
 - [2-way bound input fields](https://kodaktor.ru/min_react_live_c097b)
-- [Задание 2 - лайкер](https://github.com/nikitinskaya/react-liker/tree/master)
+- [3️⃣ Задание 2 - лайкер](https://github.com/nikitinskaya/react-liker/tree/master)
+
+## ⭐ Корзина на vue.js
+- [Код](https://github.com/nikitinskaya/vue-cart)
+- [Демо на хероку](http://vue-cart.herokuapp.com)
+
+    Остался баг с некорректной отправкой в стор заказа по дропу на любое место страницы.
+
+    Планирую:
+    - поменять обработку события заказа, чтобы поправить баг
+    - добавить анимацию переходов между роутами
+    - добавить возможность регистрации и хранения состояния корзины в своем аккаунте (с firebase)
+    - добавить возможность удалять товар из корзинки
