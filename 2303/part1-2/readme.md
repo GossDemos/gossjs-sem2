@@ -6,7 +6,7 @@ As `fetch` requires CORS headers to be set on the WP site, which is not the case
 
 1. Get the posts with curl:
 ```bash
-echo module.exports = >> posts.js
+echo module.exports = > posts.js
 curl http://more-i-gori.me/wp-json/wp/v2/posts >> posts.js
 ```
 
