@@ -83,7 +83,7 @@ PHP
 
 ## ⭐ Корзина на vue.js
 - [Код](https://github.com/nikitinskaya/vue-cart)
-- [Демо на хероку](http://vue-cart.herokuapp.com)
+- [Демо на хероку](https://vue-cart.herokuapp.com)
 
     Планирую:
     - добавить анимацию переходов между роутами
